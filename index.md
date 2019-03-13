@@ -1,6 +1,9 @@
-## How I describe myself
+## Current Portfolio
 
->Memiliki visi menjadi value investor yang bertujuan jangka panjang. Kini malah terseok-seok dalam pusaran trading harian, mingguan, bulanan, dan mengejar emiten yang rutin membagi deviden. 
+>1. Sucorinvest Maxi Fund, [SUCMAXI:IJ](https://www.bloomberg.com/quote/SUCMAXI:IJ), Mutual Fund
+>2. Sucorinvest Equity Fund, [SUCOREQ:IJ](https://www.bloomberg.com/quote/SUCOREQ:IJ), Mutual Fund
+>3.
+
 
 ### Markdown
 
