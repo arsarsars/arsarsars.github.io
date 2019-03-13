@@ -6,6 +6,12 @@
 >4. Hexindo Adiperkasa, [HEXA:IJ](https://www.bloomberg.com/quote/HEXA:IJ), Stock
 >5. Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
+### Investment Approach
+>1. Mode: Long-term, Aggresive
+>2. Dividend
+>3. Invest frequently, compounding
+>4. Review once a month
+
 ### Contact
 
 >I am reachable via email: [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
