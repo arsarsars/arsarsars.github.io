@@ -1,16 +1,23 @@
 ### Current Portfolio
 
->1. Sucorinvest Maxi Fund, [SUCMAXI:IJ](https://www.bloomberg.com/quote/SUCMAXI:IJ), Fund
->2. Sucorinvest Equity Fund, [SUCOREQ:IJ](https://www.bloomberg.com/quote/SUCOREQ:IJ), Fund
->3. Syariah Mandiri Bukareksa Pasar Uang Syariah, [MBPUSUS:IJ](https://www.bloomberg.com/quote/MBPUSUS:IJ), Fund
->4. Hexindo Adiperkasa, [HEXA:IJ](https://www.bloomberg.com/quote/HEXA:IJ), Stock
->5. Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
+>Sucorinvest Maxi Fund, [SUCMAXI:IJ](https://www.bloomberg.com/quote/SUCMAXI:IJ), Fund
+
+>Sucorinvest Equity Fund, [SUCOREQ:IJ](https://www.bloomberg.com/quote/SUCOREQ:IJ), Fund
+
+>Syariah Mandiri Bukareksa Pasar Uang Syariah, [MBPUSUS:IJ](https://www.bloomberg.com/quote/MBPUSUS:IJ), Fund
+
+>Hexindo Adiperkasa, [HEXA:IJ](https://www.bloomberg.com/quote/HEXA:IJ), Stock
+
+>Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
 ### Investment Approach
->1. Mode: Long-term, Aggresive
->2. Dividend
->3. Invest frequently, compounding
->4. Trade no more,
+>Mode: Long-term, Aggresive
+
+>Dividend
+
+>Invest frequently, compounding
+
+>Consumer goods are great
 
 ### Note
 Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
