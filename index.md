@@ -7,9 +7,12 @@
 >5. Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
 
-### Elsewhere
+### Best sayings
+>1. "Datan serik lamun ketaman, datan susah lamun kelangan."
+>2. "Real investing is boring".
+>3. "Padi tumbuh tak berisik".
 
 
 ### Contact
 
-Mailing address
+Mailing address [arie@orakoberleren.com](mailto:arie@orakoberleren.com), not direct response.
