@@ -33,4 +33,8 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 >I am reachable via email: [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
 
+---
+
+**LAST UPDATE: March, 13 2019.**
+
 
