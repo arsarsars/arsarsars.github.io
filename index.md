@@ -10,6 +10,8 @@
 
 >Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
+>Garuda Maintenance Facility AeroAsia, [GMFI:IJ](https://www.bloomberg,com/quote/GMFI:IJ), Stock
+
 ### Investment Approach
 >Mode: Long-term, Aggresive
 
@@ -17,7 +19,6 @@
 
 >Invest frequently, compounding
 
->Consumer goods are great
 
 ### Note
 Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
