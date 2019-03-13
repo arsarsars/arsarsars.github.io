@@ -1,38 +1,19 @@
-## Current Portfolio
+### Current Portfolio
 
 >1. Sucorinvest Maxi Fund, [SUCMAXI:IJ](https://www.bloomberg.com/quote/SUCMAXI:IJ), Mutual Fund
 >2. Sucorinvest Equity Fund, [SUCOREQ:IJ](https://www.bloomberg.com/quote/SUCOREQ:IJ), Mutual Fund
->3.
+>3. Hexindo Adiperkasa, [HEXA:IJ](https://www.bloomberg.com/quote/HEXA:IJ), Stock
+>4. Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
 
-### Markdown
+### Notes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+March 13, 2019.
 
-# Header 1
-## Header 2
-### Header 3
+P
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arsarsars/arsarsars.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please email my secretary at sri@orakoberleren.com
