@@ -8,10 +8,6 @@
 
 ### Contact
 
-Mailing address [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
+>I am reachable via email: [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
 
->
->
->
->
----
+
