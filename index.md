@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## How I describe myself
 
-You can use the [editor on GitHub](https://github.com/arsarsars/arsarsars.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>Memiliki visi menjadi value investor yang bertujuan jangka panjang. Kini malah terseok-seok dalam pusaran trading harian, mingguan, bulanan, dan mengejar emiten yang rutin membagi deviden. 
 
 ### Markdown
 
