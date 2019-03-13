@@ -6,19 +6,12 @@
 >4. Hexindo Adiperkasa, [HEXA:IJ](https://www.bloomberg.com/quote/HEXA:IJ), Stock
 >5. Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
-
-### Best sayings
->1. "Datan serik lamun ketaman, datan susah lamun kelangan."
->2. "Real investing is boring".
->3. "Padi tumbuh tak berisik".
-
-
 ### Contact
 
 Mailing address [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
 
-
-
-
-
+>
+>
+>
+>
 ---
