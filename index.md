@@ -12,12 +12,17 @@
 
 >Garuda Maintenance Facility AeroAsia, [GMFI:IJ](https://www.bloomberg,com/quote/GMFI:IJ), Stock
 
+>Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
+
+
 ### Investment Approach
 >Mode: Long-term, Aggresive
 
 >Dividend
 
 >Invest frequently, compounding
+
+>Low liquity
 
 
 ### Note
