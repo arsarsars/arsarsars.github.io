@@ -22,7 +22,7 @@
 
 >Invest frequently, compounding
 
->Low liquity
+>Low liquidity
 
 
 ### Note
