@@ -10,19 +10,16 @@
 
 >Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
->Garuda Maintenance Facility AeroAsia, [GMFI:IJ](https://www.bloomberg,com/quote/GMFI:IJ), Stock
-
 >Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
 
 
 ### Investment Approach
->Mode: Long-term, Aggresive
+>50% Longterm, 30% Short-term, 20% Fund
 
->Dividend
+>Dividend Growth
 
->Invest frequently, compounding
+>Invest frequently
 
->Low liquidity
 
 
 ### Note
