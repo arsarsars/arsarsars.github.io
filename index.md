@@ -2,8 +2,6 @@
 
 >Sucorinvest Equity Fund, [SUCOREQ:IJ](https://www.bloomberg.com/quote/SUCOREQ:IJ), Fund
 
->Syariah Mandiri Bukareksa Pasar Uang Syariah, [MBPUSUS:IJ](https://www.bloomberg.com/quote/MBPUSUS:IJ), Fund
-
 >Hexindo Adiperkasa, [HEXA:IJ](https://www.bloomberg.com/quote/HEXA:IJ), Stock
 
 >Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
