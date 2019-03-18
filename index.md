@@ -34,7 +34,7 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 On another note, this is from Boiler Room Trader video about 'day-trader' 
 >Lets paint the picture of what is really gonna look like to be a day trader: you are gonna wake up in your house, depending on your time zone and market opens, you're probably not gonna speak to anybody. You don't have co-workers so you don't get to associate outside of your job with actual human being. So, trading can get a little lonely at times.
 
->...so the vivid real picture is as a trader, you are gonna be in your house, by yourself, in front of computer screens, that don't talk to you and you are to have to make decisions every single day that are bulit on risks. Do you see yourself as a risk taker? Yes or no?
+>...so the vivid real picture is as a trader, you are gonna be in your house, by yourself, in front of computer screens, that don't talk to you and you are to have to make decisions every single day that are built on risks. Do you see yourself as a risk taker? Yes or no?
 
 ### Contact
 
