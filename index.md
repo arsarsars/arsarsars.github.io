@@ -1,7 +1,5 @@
 ### Current Portfolio
 
->Sucorinvest Maxi Fund, [SUCMAXI:IJ](https://www.bloomberg.com/quote/SUCMAXI:IJ), Fund
-
 >Sucorinvest Equity Fund, [SUCOREQ:IJ](https://www.bloomberg.com/quote/SUCOREQ:IJ), Fund
 
 >Syariah Mandiri Bukareksa Pasar Uang Syariah, [MBPUSUS:IJ](https://www.bloomberg.com/quote/MBPUSUS:IJ), Fund
@@ -14,6 +12,7 @@
 
 
 ### Investment Approach
+
 >50% Longterm, 30% Short-term, 20% Fund
 
 >Dividend Growth
@@ -32,12 +31,17 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 >Have a bitchin' summer everybody.
 
+On another note, this is from Boiler Room Trader video about 'day-trader' 
+>Lets paint the picture of what is really gonna look like to be a day trader: you are gonna wake up in your house, depending on your time zone and market opens, you're probably not gonna speak to anybody. You don't have co-workers so you don't get to associate outside of your job with actual human being. So, trading can get a little lonely at times.
+
+>...so the vivid real picture is as a trader, you are gonna be in your house, by yourself, in front of computer screens, that don't talk to you and you are to have to make decisions every single day that are bulit on risks. Do you see yourself as a risk taker? Yes or no?
+
 ### Contact
 
 >I am reachable via email: [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
 
 ---
 
-**LAST UPDATE: March, 13 2019.**
+**LAST UPDATE: March, 18 2019.**
 
 
