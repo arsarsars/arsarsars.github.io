@@ -10,6 +10,8 @@
 
 >Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
 
+>Sri Rejeki Isman, [SRIL:IJ](https://www.bloomberg.com/quote/SRIL:IJ), Stock
+
 
 ### Investment Approach
 
