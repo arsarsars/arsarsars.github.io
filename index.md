@@ -21,7 +21,11 @@
 
 >Invest frequently
 
+### Articles
 
+>Medium, 20 JAN 2019, "[FSTVLST di Proudphere Salatiga](https://medium.com/@orakoberleren/fstvlst-di-proudphere-salatiga-78256295d60c)"
+
+>Medium, 15 FEB 2019, "[Apa Obsesimu, Za? Bermusik!](https://medium.com/@orakoberleren/apa-obsesimu-za-bermusik-e42c997f77f9)"
 
 ### Note
 Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
