@@ -48,7 +48,9 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 ---
 
-This web is hosted at [Github](https://github.com), built by fifteen minutes on [Thinkpad X230](https://www.lenovo.com/gb/en/laptops/thinkpad/x-series/x230/) which running [Ubuntu 18.04.2](http://releases.ubuntu.com/18.04/) Bionic Beaver.
+### Footer
+
+>This web is hosted at [Github](https://github.com), built by fifteen minutes on [Thinkpad X230](https://www.lenovo.com/gb/en/laptops/thinkpad/x-series/x230/) which running [Ubuntu 18.04.2](http://releases.ubuntu.com/18.04/) Bionic Beaver, for more information [www.orakoberleren.com](https://orakoberleren.com).
 
 
 
