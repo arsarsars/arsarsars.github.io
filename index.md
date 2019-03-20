@@ -48,7 +48,7 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 ---
 
-<a href="http://apple.com/mac" title="http://apple.com/mac"><img src="https://arsarsars.github.io/mwmac_white.png" alt="Made on a Mac" style="center">
+This web is hosted at [Github](https://github.com), built by fifteen minutes on [Thinkpad X230](https://www.lenovo.com/gb/en/laptops/thinkpad/x-series/x230/) which running [Ubuntu 18.04.2](http://releases.ubuntu.com/18.04/) Bionic Beaver.
 
 
 
