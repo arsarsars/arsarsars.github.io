@@ -44,7 +44,7 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 ---
 
-<a href="http://apple.com/mac" title="http://apple.com/mac"><img src="https://arsarsars.github.io/mwmac_white.png" alt="Made on a Mac" style="border: none; height: 50px; left: 280px; opacity: 0.25; position: absolute; top: 75px; width: 139px; z-index: 1; " id="id4">
+<a href="http://apple.com/mac" title="http://apple.com/mac"><img src="https://arsarsars.github.io/mwmac_white.png" alt="Made on a Mac">
 
 </a>
 
