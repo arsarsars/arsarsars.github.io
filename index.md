@@ -44,11 +44,11 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 ---
 
-**LAST UPDATE: March 20, 2018
+**LAST UPDATE: March 20, 2018**
 
 ---
 
-<a href="http://apple.com/mac" title="http://apple.com/mac"><img src="https://arsarsars.github.io/mwmac_white.png" alt="Made on a Mac">
+<a href="http://apple.com/mac" title="http://apple.com/mac"><img src="https://arsarsars.github.io/mwmac_white.png" alt="Made on a Mac" style="center">
 
 
 
