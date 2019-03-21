@@ -10,12 +10,18 @@
 
 >Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
 
->Sri Rejeki Isman, [SRIL:IJ](https://www.bloomberg.com/quote/SRIL:IJ), Stock
+>Japfa Comfeed Indonesia, [JPFA](https://www.bloomberg.com/quote/JPFA:IJ), Stock
+
+>Samindo Resources, [MYOH](https://www.bloomberg.com/quote/MYOH:IJ), Stock
+
+>Soechi Lines, [SOCI](https://bloomberg.com/quote/SOCI:IJ), Stock
 
 
 ### Investment Approach
 
 >80% Stocks, 20% Fund
+
+>75% Long-term, 25% Short-term
 
 >Dividend Growth
 
