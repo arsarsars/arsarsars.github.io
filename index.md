@@ -10,11 +10,11 @@
 
 >Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
 
->Japfa Comfeed Indonesia, [JPFA](https://www.bloomberg.com/quote/JPFA:IJ), Stock
+>Japfa Comfeed Indonesia, [JPFA:IJ](https://www.bloomberg.com/quote/JPFA:IJ), Stock
 
->Samindo Resources, [MYOH](https://www.bloomberg.com/quote/MYOH:IJ), Stock
+>Samindo Resources, [MYOH:IJ](https://www.bloomberg.com/quote/MYOH:IJ), Stock
 
->Soechi Lines, [SOCI](https://bloomberg.com/quote/SOCI:IJ), Stock
+>Soechi Lines, [SOCI:IJ](https://bloomberg.com/quote/SOCI:IJ), Stock
 
 
 ### Investment Approach
@@ -25,7 +25,7 @@
 
 >Dividend Growth
 
->Invest frequently
+>Invest monthly
 
 ### Articles
 
