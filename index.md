@@ -45,15 +45,15 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 ### Another Note dari buku 'The Intelligent Investor'
 Dengan menggabungkan kekuatan intelektual yang luar biasa, penalaran mendalam, dan pengalaman yang sangat luas, Graham mengembangkan prinsip-prinsip inti yang masih valid hingga saat ini:
->1. Saham tidak hanya tidak hanya simbol ticker atau kedipan elektronik di layar monitor; saham adalah suatu kepentingan kepemilikan dalam bisnis aktual, dan bisnis itu memiliki nilai fundamental yang tidak bergantung pada harga sahamnya.
+>a. Saham tidak hanya tidak hanya simbol ticker atau kedipan elektronik di layar monitor; saham adalah suatu kepentingan kepemilikan dalam bisnis aktual, dan bisnis itu memiliki nilai fundamental yang tidak bergantung pada harga sahamnya.
 
->2. Pasar adalah sebuah pendulum yang selamanya mengayun antara optimisme temporer (yang menjadikan harga saham terlalu mahal) dan pesimisme tak berdasar (yang menjadikan harga saham terlalu murah). Investor pintar adalah seorang realis yang menjual sahamnya kepada orang optimis dan membelinya dari orang pesimis.
+>b. Pasar adalah sebuah pendulum yang selamanya mengayun antara optimisme temporer (yang menjadikan harga saham terlalu mahal) dan pesimisme tak berdasar (yang menjadikan harga saham terlalu murah). Investor pintar adalah seorang realis yang menjual sahamnya kepada orang optimis dan membelinya dari orang pesimis.
 
->3. Nilai masa depan dari setiap investasi adalah fungsi dari harga sekarangnya. Semakin tinggi harga yang Anda bayar, semakin rendah return yang akan Anda nikmati.
+>c. Nilai masa depan dari setiap investasi adalah fungsi dari harga sekarangnya. Semakin tinggi harga yang Anda bayar, semakin rendah return yang akan Anda nikmati.
 
->4. Satu-satunya risiko tidak bisa dihilangkan oleh investor mana pun adalah risiko melakukan kesalahan, sehati-hati apa pun dia. Hanya dengan setia pada apa yang disebut Graham sebagai 'margin pengaman' -- tidak membayar berlebihan, semenarik apa pun suatu investasi -- Anda niscaya mampu meminimalisasi kesalahan yang tak perlu.
+>d. Satu-satunya risiko tidak bisa dihilangkan oleh investor mana pun adalah risiko melakukan kesalahan, sehati-hati apa pun dia. Hanya dengan setia pada apa yang disebut Graham sebagai 'margin pengaman' -- tidak membayar berlebihan, semenarik apa pun suatu investasi -- Anda niscaya mampu meminimalisasi kesalahan yang tak perlu.
 
->5. Rahasia sukses keuangan Anda terletak pada diri Anda sendiri. Jika Anda mau berpikir kritis, menolak untuk percaya begitu saja pada fakta di pasar, lalu berinvestasi dengan penuh percaya diri dan sabar, niscaya Anda bisa terus memperoleh keuntungan stabil, dari pasar bearish sekalipun. Dengan mengembangkan disiplin dan keberanian, Anda tak akan membiarkan perubahan perilaku orang lain menentukan masa depan finansial Anda. Akhirnya, hal yang jauh lebih penting sebenarnya bukanlah bagaimana perilaku investasi Anda, melainkan bagaimana perilaku Anda.
+>e. Rahasia sukses keuangan Anda terletak pada diri Anda sendiri. Jika Anda mau berpikir kritis, menolak untuk percaya begitu saja pada fakta di pasar, lalu berinvestasi dengan penuh percaya diri dan sabar, niscaya Anda bisa terus memperoleh keuntungan stabil, dari pasar bearish sekalipun. Dengan mengembangkan disiplin dan keberanian, Anda tak akan membiarkan perubahan perilaku orang lain menentukan masa depan finansial Anda. Akhirnya, hal yang jauh lebih penting sebenarnya bukanlah bagaimana perilaku investasi Anda, melainkan bagaimana perilaku Anda.
 
 
 ### Contact
