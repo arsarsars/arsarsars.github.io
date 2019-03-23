@@ -21,11 +21,13 @@
 
 >80% Stocks, 20% Fund
 
->75% Long-term, 25% Short-term
+>90% Long-term, 10% Short-term
 
 >Dividend Growth
 
->Invest monthly
+>Invest weekly, DCA
+
+>Review monthly
 
 ### Articles
 
