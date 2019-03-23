@@ -8,13 +8,13 @@
 
 >Jaya Real Property, [JRPT:IJ](https://www.bloomberg.com/quote/JRPT:IJ), Stock
 
->Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
-
 >Japfa Comfeed Indonesia, [JPFA:IJ](https://www.bloomberg.com/quote/JPFA:IJ), Stock
 
 >Samindo Resources, [MYOH:IJ](https://www.bloomberg.com/quote/MYOH:IJ), Stock
 
 >Soechi Lines, [SOCI:IJ](https://bloomberg.com/quote/SOCI:IJ), Stock
+
+>Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
 
 
 ### Investment Approach
