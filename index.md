@@ -4,17 +4,19 @@
 
 >Hexindo Adiperkasa, [HEXA:IJ](https://www.bloomberg.com/quote/HEXA:IJ), Stock
 
->Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
-
 >Jaya Real Property, [JRPT:IJ](https://www.bloomberg.com/quote/JRPT:IJ), Stock
 
->Japfa Comfeed Indonesia, [JPFA:IJ](https://www.bloomberg.com/quote/JPFA:IJ), Stock
-
->Samindo Resources, [MYOH:IJ](https://www.bloomberg.com/quote/MYOH:IJ), Stock
-
->Soechi Lines, [SOCI:IJ](https://bloomberg.com/quote/SOCI:IJ), Stock
+>Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
 >Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
+
+>Soechi Lines, [SOCI:IJ](https://www.bloomberg.com/quote/SOCI:IJ), Stock
+
+>Sri Rejeki Isman, [SRIL:IJ](https://www.bloomberg.com/quote/SRIL:IJ), Stock
+
+>Visi Media Asia, [VIVA:IJ](https://www.bloomberg.com/quote/VIVA:IJ), Stock
+
+>Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
 
 
 ### Investment Approach
