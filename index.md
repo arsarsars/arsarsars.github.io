@@ -10,11 +10,7 @@
 
 >Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
 
->Soechi Lines, [SOCI:IJ](https://www.bloomberg.com/quote/SOCI:IJ), Stock
-
 >Sri Rejeki Isman, [SRIL:IJ](https://www.bloomberg.com/quote/SRIL:IJ), Stock
-
->Visi Media Asia, [VIVA:IJ](https://www.bloomberg.com/quote/VIVA:IJ), Stock
 
 >Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
 
