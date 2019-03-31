@@ -2,15 +2,11 @@
 
 >Sucorinvest Equity Fund, [SUCOREQ:IJ](https://www.bloomberg.com/quote/SUCOREQ:IJ), Fund
 
->Hexindo Adiperkasa, [HEXA:IJ](https://www.bloomberg.com/quote/HEXA:IJ), Stock
-
 >Jaya Real Property, [JRPT:IJ](https://www.bloomberg.com/quote/JRPT:IJ), Stock
 
 >Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
 >Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
-
->Sri Rejeki Isman, [SRIL:IJ](https://www.bloomberg.com/quote/SRIL:IJ), Stock
 
 >Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
 
@@ -43,6 +39,9 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 >Have a bitchin' summer everybody.
 
+### From Hanny 'Beradadisini'
+
+>I would like to simply enjoy the feeling of being me, of being alone, of reconnecting with myself, of doing things for the sake of doing it–not for social media.
 
 ### Contact
 
