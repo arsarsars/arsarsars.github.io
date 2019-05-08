@@ -46,15 +46,11 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 >I would like to simply enjoy the feeling of being me, of being alone, of reconnecting with myself, of doing things for the sake of doing it–not for social media.
 
-### From Jason Zweig comments on The Intelligent Investor,
+### From Jason Zweig article, "Did You Beat the Market?",
 
->Jika horizon investasi Anda jangka panjang (setidaknya 25 atau 30 tahun), maka hanya ada satu pendekatan yang masuk akal: beli setiap bulan, secara otomatis, dan beli pada kesempatan lain manakala Anda punya uang lebih. Satu-satunya pilihan terbaik untuk kepemilikan dalam jangka panjang adalah fund indeks pasar saham total. Jual hanya ketika Anda butuh uang tunai.
+>Finally, ask yourself why you want to beat the market anyway. I once interviewed dozens of residents in Boca Raton, one of Florida’s richest retirement communities. Amid the elegant stucco homes, the manicured lawns, the swaying palm trees, the sun and the sea breezes, I asked these folks — mostly in their seventies — if they’d beaten the market over the course of their investing lifetimes. Some said yes, some said no. Then one man said, “Who cares? All I know is, my investments earned enough for me to end up in Boca.”
 
->Untuk menjadi investor pintar, Anda juga harus menolak menilai keberhasilan finansial Anda berbanding keberhasilan segelintir orang yang sama sekali tidak Anda kenal. Anda tak akan lebih miskin dari seseorang di Dubuque, Dallas, atau Denver yang berhasil mengungguli indeks acuan. Tak ada satu pusara pun bertuliskan "Beliau ini mengalahkan pasar".
-
->Saya pernah mewawancarai sekelompok pensiunan di Boca Raton, salah satu komunitas pensiunan terkaya di Florida. Saya bertanya kepada orang-orang ini -- sebagian besar berusia 70 tahunan -- apakah mereka pernah mengalahkan pasar dalam karir investasi mereka. Sebagian menjawab ya, sebagian menjawab tidak; sebagian besar tidak yakin. Kemudian, seseorang berkata, "Siapa peduli? Setahu saya, investasi saya telah cukup membuat saya bisa hidup di Boca."
-
->Adakah jawaban yang lebih sempurna daripada itu? Pada akhirnya, inti masalah berinvestasi bukanlah bagaimana memperoleh uang lebih banyak ketimbang orang lain, tetapi memperoleh uang yang cukup untuk memenuhi kebutuhan Anda. Cara paling baik untuk mengukur keberhasilan investasi Anda bukanlah dengan bertanya apakah Anda telah mengalahkan pasar, melainkan apakah Anda telah memiliki rencana keuangan dan disiplin perilaku yang dapat membawa Anda ke tempat yang ingin Anda tuju. Pada akhirnya, yang terpenting bukanlah melintasi garis finish lebih dulu daripada orang lain, melainkan semata memastikan bahwa Anda dapat melintasi garis itu.
+>I can’t imagine a better answer. After all, the whole point of investing is not to earn more money than average, but to earn enough money to reach your own goals. The best way to measure your investing success is not by whether you’re beating the market but by whether your investments are growing steadily and rapidly enough to get you where you want to go. That means that staying put, in an index fund or even in a fund that is underperforming the S&P by a point or two, is better than climbing onto the whizzing treadmill of trying to beat the market. In the end, what matters isn’t crossing the finish line before anybody else but just making sure that you do cross it.
 
 ### Contact
 
