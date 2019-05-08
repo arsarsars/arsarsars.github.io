@@ -12,7 +12,6 @@
 
 >Simas ETF IDX 30 Fund, [XSBC:IJ](https://www.bloomberg.com/quote/XSBC:IJ), ETF
 
-
 ### Investment Approach
 
 >80% Stocks, 20% Other
@@ -31,7 +30,7 @@
 
 >Medium, 15 FEB 2019, "Apa Obsesimu, Za? Bermusik!", [link](https://medium.com/@orakoberleren/apa-obsesimu-za-bermusik-e42c997f77f9)
 
->... more articles, read my [blog here](https://ariesusduabelas.wordpress.com)
+>.... more articles, read my [blog here](https://ariesusduabelas.wordpress.com)
 
 ### Note
 Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
