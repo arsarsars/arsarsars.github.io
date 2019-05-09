@@ -28,8 +28,6 @@
 
 >Medium, 15 FEB 2019, "Apa Obsesimu, Za? Bermusik!", [link](https://medium.com/@orakoberleren/apa-obsesimu-za-bermusik-e42c997f77f9)
 
->... more articles, read my [blog here](https://ariesusduabelas.wordpress.com)
-
 ### Note
 Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 >Learn programming language (Phyton or Ror) during the weekdays. Hang out with your friends on weeknights. On weekends, rent somebody's parents Suburban and be an Uber driver in the closest wealthy vacation town. Take your parents out to dinner once, with the rest of the money. Spend half on yourself. Save a quarter of it. Put the rest in Amazon and Facebook stock. Don't pay attention to the price of the stock market for ten years.
