@@ -8,17 +8,15 @@
 
 >... and four more stocks, unpublished here.
 
->DIRE Ciptadana Properti Ritel Indonesia, [XCID](https://www.bloomberg.com/quote/XCID:IJ), REIT
-
 >Simas ETF IDX 30 Fund, [XSBC:IJ](https://www.bloomberg.com/quote/XSBC:IJ), ETF
 
 ### Investment Approach
 
->80% Stocks, 20% Other
+>93% Stocks, 7% ETF
 
 >90% Long-term, 10% Swing
 
->Dividend Growth
+>Dividend paying company will be good
 
 >Invest monthly, and focused, DCA
 
