@@ -1,18 +1,16 @@
-### Porto.
+### Retail Investor
+
+### Current Porto.
 
 >Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
 
->Waskita Beton Precast, [WSBP:IJ](https://www.bloomberg.com/quote/WSBP:IJ), Stock
+>Polychem Indonesia, [ADMG:IJ](https://www.bloomberg.com/quote/ADMG:IJ), Stock
 
->Surya Eka Perkasa, [ESSA:IJ](https://www.bloomberg.com/quote/ESSA:IJ), Stock
-
->... and four more stocks, unpublished here.
-
->Simas ETF IDX 30 Fund, [XSBC:IJ](https://www.bloomberg.com/quote/XSBC:IJ), ETF
+>Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
 ### Investment Approach
 
->93% Stocks, 7% ETF
+>95% Stock, 5% Money Market Fund
 
 >90% Long-term, 10% Swing
 
