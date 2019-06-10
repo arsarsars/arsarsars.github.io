@@ -6,13 +6,11 @@
 
 >Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
->.... and four more.
+>... more, unpublished here.
 
-### Performance
+### Performance 2019
 
-### 2019
-
-JAN | FEB | MAR | APR | MEI 
+JAN | FEB | MAR | APR | MEI | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 ------------ | -------------
 0% | 0% | -9.5% | -4.9% | 8.7% 
 
