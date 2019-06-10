@@ -8,11 +8,6 @@
 
 >... more, unpublished here.
 
-### Average Returns
-
-Three months: -1.9%
-
-
 ### Investment Approach
 
 >100% Stock,
@@ -50,6 +45,10 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 >Finally, ask yourself why you want to beat the market anyway. I once interviewed dozens of residents in Boca Raton, one of Florida’s richest retirement communities. Amid the elegant stucco homes, the manicured lawns, the swaying palm trees, the sun and the sea breezes, I asked these folks — mostly in their seventies — if they’d beaten the market over the course of their investing lifetimes. Some said yes, some said no. Then one man said, “Who cares? All I know is, my investments earned enough for me to end up in Boca.”
 
 >I can’t imagine a better answer. After all, the whole point of investing is not to earn more money than average, but to earn enough money to reach your own goals. The best way to measure your investing success is not by whether you’re beating the market but by whether your investments are growing steadily and rapidly enough to get you where you want to go. That means that staying put, in an index fund or even in a fund that is underperforming the S&P by a point or two, is better than climbing onto the whizzing treadmill of trying to beat the market. In the end, what matters isn’t crossing the finish line before anybody else but just making sure that you do cross it.
+
+### Average Return
+
+Three months of investing: -1.9%
 
 ### Contact
 
