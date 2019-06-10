@@ -52,6 +52,12 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 >I am reachable via email: [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
 
+### Performance
+
+JAN | FEB | MAR | APR | MEI 
+------------ | -------------
+0% | 0% | -9.5% | -4.9% | 8.7% 
+
 ---
 
 **LAST UPDATE: June 10, 2019**
