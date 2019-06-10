@@ -6,9 +6,16 @@
 
 >Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
->Harum Energy, [HRUM:IJ](https://www.bloomberg.com/quote/HRUM:IJ), Stock
+>.... and four more.
 
->Bukit Asam, [PTBA:IJ](https://www.bloomberg.com/quote/PTBA:IJ), Stock
+### Performance
+
+### 2019
+
+JAN | FEB | MAR | APR | MEI 
+------------ | -------------
+0% | 0% | -9.5% | -4.9% | 8.7% 
+
 
 ### Investment Approach
 
@@ -51,12 +58,6 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 ### Contact
 
 >I am reachable via email: [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
-
-### Performance
-
-JAN | FEB | MAR | APR | MEI 
------------- | -------------
-0% | 0% | -9.5% | -4.9% | 8.7% 
 
 ---
 
