@@ -48,7 +48,7 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 ### Average Return
 
-Three months of investing: -1.9%
+>Three months of investing my average return was at -1.9%
 
 ### Contact
 
