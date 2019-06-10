@@ -1,5 +1,3 @@
-### Retail Investor
-
 ### Current Porto.
 
 >Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
@@ -8,15 +6,19 @@
 
 >Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
+>Harum Energy, [HRUM:IJ](https://www.bloomberg.com/quote/HRUM:IJ), Stock
+
+>Bukit Asam, [PTBA:IJ](https://www.bloomberg.com/quote/PTBA:IJ), Stock
+
 ### Investment Approach
 
->95% Stock, 5% Money Market Fund
+>100% Stock,
 
 >90% Long-term, 10% Swing
 
 >Dividend paying company will be good
 
->Invest monthly, and focused, DCA
+>Invest monthly, and focused, DCA?
 
 >Review monthly
 
@@ -52,7 +54,7 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 ---
 
-**LAST UPDATE: May 8, 2019**
+**LAST UPDATE: June 10, 2019**
 
 
 
