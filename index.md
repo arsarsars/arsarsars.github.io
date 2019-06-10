@@ -8,11 +8,9 @@
 
 >... more, unpublished here.
 
-### Performance 2019
+### Average Returns
 
-JAN | FEB | MAR | APR | MEI | JUN | JUL | AUG | SEP | OCT | NOV | DEC
------------- | -------------
-0% | 0% | -9.5% | -4.9% | 8.7% 
+Three months: -1.9%
 
 
 ### Investment Approach
