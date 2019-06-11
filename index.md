@@ -1,4 +1,4 @@
-### MORE FOR OTHERS, ENOUGH FOR EVERYBODY.
+### |
 
 ### Current Porto.
 
