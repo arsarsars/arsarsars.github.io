@@ -46,6 +46,18 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 >I can’t imagine a better answer. After all, the whole point of investing is not to earn more money than average, but to earn enough money to reach your own goals. The best way to measure your investing success is not by whether you’re beating the market but by whether your investments are growing steadily and rapidly enough to get you where you want to go. That means that staying put, in an index fund or even in a fund that is underperforming the S&P by a point or two, is better than climbing onto the whizzing treadmill of trying to beat the market. In the end, what matters isn’t crossing the finish line before anybody else but just making sure that you do cross it.
 
+### Quotation
+
+>'MORE FOR OTHERS ENOUGH FOR EVERYBODY' -- from speech delivered by T.P. Rachmat
+
+### Things to focus on
+
+> Graduate from college, writing and researching my last thesis.
+> Building my own reputation.
+> Reducing online time, see things deeply and living my offline live.
+> Start a business.
+> Have fun.
+
 ### Average Return
 
 >Three months of investing my average return was at -1.9%
@@ -56,7 +68,7 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 ---
 
-**LAST UPDATE: June 10, 2019**
+**LAST UPDATE: June 11, 2019**
 
 
 
