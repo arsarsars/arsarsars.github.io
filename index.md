@@ -1,6 +1,5 @@
-### 
 
-### Current Porto.
+### Current Portfolio
 
 >Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
 
