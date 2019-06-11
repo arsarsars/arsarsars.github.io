@@ -54,7 +54,7 @@ Summer advice for soon to be graduates with no job lined up, by Ricky Van Veen
 
 > Graduate from college, writing and researching my last thesis.
 > Building my own reputation.
-> Reducing online time, see things deeply and living my offline live.
+> Reducing online time, see things deeply and living my offline life.
 > Start a business.
 > Have fun.
 
