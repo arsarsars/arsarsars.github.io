@@ -18,7 +18,12 @@
 
 4. Invest monthly, and focused, DCA?
 
-5. Review monthly, monthly report to shareholders
+5. Review monthly,
+
+**Performance**
+JAN | FEB | MAR | APR | MEI | JUN | JUL | AUG | SEP | OCT | NOV | DEC
+------------ | -------------
+0% | 0% | -9.5% | -4.9% | 8.7% | | | | | | |
 
 **Articles**
 
@@ -29,8 +34,6 @@
 **Quotation**
 
 "More for others, enough for everybody." -- from speech delivered by T.P. Rachmat
-
-**Average Return**
 
 **Contact**
 
