@@ -2,7 +2,7 @@
 
 >Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
 
->Polychem Indonesia, [ADMG:IJ](https://www.bloomberg.com/quote/ADMG:IJ), Stock
+>Bukit Asam, [PTBA:IJ](https://www.bloomberg.com/quote/PTBA:IJ), Stock
 
 >Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
