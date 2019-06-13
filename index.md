@@ -1,16 +1,14 @@
 **Current Portfolio**
 
-1. Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
+- Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
 
-2. Bukit Asam, [PTBA:IJ](https://www.bloomberg.com/quote/PTBA:IJ), Stock
+- Bukit Asam, [PTBA:IJ](https://www.bloomberg.com/quote/PTBA:IJ), Stock
 
-3. Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
+- Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
-4. ... more, unpublished here.
+- ... more, unpublished here.
 
-**Performance**
-
-**2019**
+**2019 Performance
 
 Jan | Feb | Mar | Apr | Mei | Jun | Jul | Aug | Sep | Oct | Nov | Dec
 ------------ | -------------
@@ -18,19 +16,19 @@ Jan | Feb | Mar | Apr | Mei | Jun | Jul | Aug | Sep | Oct | Nov | Dec
 
 **Investment Approach**
 
-1. 100% Stock,
+- 100% Stock,
 
-2. 90% Long-term, 10% Swing
+- 90% Long-term, 10% Swing
 
-3. Dividend paying company will be good
+- Dividend paying company will be good
 
-4. Invest monthly, review monthly and focused, DCA?
+- Invest monthly, review monthly and focused, DCA?
 
 **Articles**
 
-1. Medium, 20 JAN 2019, "FSTVLST di Proudphere Salatiga", [link](https://medium.com/@orakoberleren/fstvlst-di-proudphere-salatiga-78256295d60c)
+- Medium, 20 JAN 2019, "FSTVLST di Proudphere Salatiga", [link](https://medium.com/@orakoberleren/fstvlst-di-proudphere-salatiga-78256295d60c)
 
-2. Medium, 15 FEB 2019, "Apa Obsesimu, Za? Bermusik!", [link](https://medium.com/@orakoberleren/apa-obsesimu-za-bermusik-e42c997f77f9)
+- Medium, 15 FEB 2019, "Apa Obsesimu, Za? Bermusik!", [link](https://medium.com/@orakoberleren/apa-obsesimu-za-bermusik-e42c997f77f9)
 
 **Quotation**
 
