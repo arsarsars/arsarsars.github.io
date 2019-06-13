@@ -8,12 +8,6 @@
 
 - ... more, unpublished here.
 
-**2019 Performance**
-
-Jan | Feb | Mar | Apr | Mei | Jun | Jul | Aug | Sep | Oct | Nov | Dec
------------- | -------------
-0% | 0% | -9.5% | -4.9% | 8.7% | | | | | | |
-
 **Investment Approach**
 
 - 100% Stock,
@@ -32,7 +26,8 @@ Jan | Feb | Mar | Apr | Mei | Jun | Jul | Aug | Sep | Oct | Nov | Dec
 
 **Quotation**
 
-`<"More for others, enough for everybody." -- from speech delivered by T.P. Rachmat>`
+- "More for others, enough for everybody." -- from T.P. Rachmat
+
 
 
 
