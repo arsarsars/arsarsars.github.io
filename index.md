@@ -32,8 +32,6 @@
 
 **Average Return**
 
-Three months of investing my average return was at -1.9%
-
 **Contact**
 
 I am reachable via email: [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
