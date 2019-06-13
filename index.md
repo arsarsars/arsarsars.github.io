@@ -8,6 +8,14 @@
 
 4. ... more, unpublished here.
 
+**Performance**
+
+**2019**
+
+Jan | Feb | Mar | Apr | Mei | Jun | Jul | Aug | Sep | Oct | Nov | Dec
+------------ | -------------
+0% | 0% | -9.5% | -4.9% | 8.7% | | | | | | |
+
 **Investment Approach**
 
 1. 100% Stock,
@@ -16,15 +24,7 @@
 
 3. Dividend paying company will be good
 
-4. Invest monthly, and focused, DCA?
-
-5. Review monthly,
-
-**Performance**
-
-JAN | FEB | MAR | APR | MEI | JUN | JUL | AUG | SEP | OCT | NOV | DEC
------------- | -------------
-0% | 0% | -9.5% | -4.9% | 8.7% | | | | | | |
+4. Invest monthly, review monthly and focused, DCA?
 
 **Articles**
 
@@ -33,6 +33,9 @@ JAN | FEB | MAR | APR | MEI | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 2. Medium, 15 FEB 2019, "Apa Obsesimu, Za? Bermusik!", [link](https://medium.com/@orakoberleren/apa-obsesimu-za-bermusik-e42c997f77f9)
 
 **Quotation**
+
+I think you should use an
+`<addr>` element here instead.
 
 "More for others, enough for everybody." -- from speech delivered by T.P. Rachmat
 
