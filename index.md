@@ -8,7 +8,7 @@
 
 - ... more, unpublished here.
 
-**2019 Performance
+**2019 Performance**
 
 Jan | Feb | Mar | Apr | Mei | Jun | Jul | Aug | Sep | Oct | Nov | Dec
 ------------ | -------------
