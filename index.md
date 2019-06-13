@@ -21,6 +21,7 @@
 5. Review monthly,
 
 **Performance**
+
 JAN | FEB | MAR | APR | MEI | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 ------------ | -------------
 0% | 0% | -9.5% | -4.9% | 8.7% | | | | | | |
