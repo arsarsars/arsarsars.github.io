@@ -34,10 +34,9 @@ Jan | Feb | Mar | Apr | Mei | Jun | Jul | Aug | Sep | Oct | Nov | Dec
 
 **Quotation**
 
-I think you should use an
-`<addr>` element here instead.
+`<"More for others, enough for everybody." -- from speech delivered by T.P. Rachmat>`
 
-"More for others, enough for everybody." -- from speech delivered by T.P. Rachmat
+
 
 **Contact**
 
