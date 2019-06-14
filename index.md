@@ -20,9 +20,11 @@
 
 **Articles**
 
-- "FSTVLST di Proudphere Salatiga", [link](https://arsarsars.github.io/post/fstvlst-di-proudphere-salatiga)
+- "[FSTVLST di Proudphere Salatiga](https://arsarsars.github.io/post/fstvlst-di-proudphere-salatiga)"
 
-- "Apa Obsesimu, Za? Bermusik!", [link](https://arsarsars.github.io/post/apa-obsesimu-za-bermusik)
+- "[Apa Obsesimu, Za? Bermusik!](https://arsarsars.github.io/post/apa-obsesimu-za-bermusik)"
+
+- "[Interview: Pathetic Waltz](https://arsarsars.github.io/post/interview-pathetic-waltz)"
 
 **Quotation**
 
