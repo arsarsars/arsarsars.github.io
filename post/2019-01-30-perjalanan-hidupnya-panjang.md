@@ -26,7 +26,7 @@ ___
 
 “Aku baru tahu kabar itu berbulan-bulan kemudian. Saat suatu malam, gerimis mencelup kampung, Bapak kau sambil terisak telah berdiri di depan pintu. Memelukku. Meminta maaf atas pertengkaran kami malam itu. Mau dikata apalagi? Semua sudah terjadi. Aku membawa obor besar, menemaninya ke makam Nenek kau. Lama sekali dia bersimpuh di tanah berlumpur karena hujan. Menangis terisak menyesali masa lalu.”
 
->“Itulah penyesalan terbesar Bapak kau, Burlian. Karena itulah kenapa dia terlihat lebih bijak saat ini. Perjalanan hidupnya panjang. Ah, andaikata Bapak kau tamat Sekolah Rakyat, mungkin kau saat ini sudah di manalah Burlian, menjadi putra seorang manajer kilang minyak, pelaut hebat yang mengelilingi dunia atau setidaknya kau jadi anak kepala stasiun kota. Gratis naik kereta api ke mana-mana.” Bakwo Dar terkekeh pelan.
+“Itulah penyesalan terbesar Bapak kau, Burlian. Karena itulah kenapa dia terlihat lebih bijak saat ini. Perjalanan hidupnya panjang. Ah, andaikata Bapak kau tamat Sekolah Rakyat, mungkin kau saat ini sudah di manalah Burlian, menjadi putra seorang manajer kilang minyak, pelaut hebat yang mengelilingi dunia atau setidaknya kau jadi anak kepala stasiun kota. Gratis naik kereta api ke mana-mana.” Bakwo Dar terkekeh pelan.
 
 ___
 
