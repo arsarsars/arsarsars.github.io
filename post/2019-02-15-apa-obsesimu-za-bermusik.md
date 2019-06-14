@@ -48,4 +48,4 @@ Maka, saya sarankan untuk berkunjung langsung ke Soundcloud-nya. Berikut link-ny
 
 ___
 
-[Back to Homepage](https://arsarsars.github.io)
+[back to homepage](https://arsarsars.github.io)
