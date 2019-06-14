@@ -20,9 +20,9 @@
 
 **Articles**
 
-- Medium, 20 JAN 2019, "FSTVLST di Proudphere Salatiga", [link](https://medium.com/@orakoberleren/fstvlst-di-proudphere-salatiga-78256295d60c)
+- 20 JAN 2019, ["FSTVLST di Proudphere Salatiga"](https://arsarsars.github.io/post/2019-01-20-fstvlst-di-proudphere-salatiga)
 
-- Medium, 15 FEB 2019, "Apa Obsesimu, Za? Bermusik!", [link](https://medium.com/@orakoberleren/apa-obsesimu-za-bermusik-e42c997f77f9)
+- 15 FEB 2019, ["Apa Obsesimu, Za? Bermusik!"](https://arsarsars.github.io/post/2019-02-15-apa-obsesimu-za-bermusik)
 
 **Quotation**
 
