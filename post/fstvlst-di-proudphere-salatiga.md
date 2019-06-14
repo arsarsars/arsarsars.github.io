@@ -16,6 +16,8 @@ Gigs kecil di Salatiga itu, membuat saya pengin nonton FSTVLST lagi. Intim sekal
 
 Sayang memang, saya tak sempat membawa CD mereka yang saya beli di Lokananta. Lewat tulisan ini, ingin mengingatkan mereka juga untuk segera membuat album baru. Minimal rilis single.
 
+*20 Januari 2019
+
 ___
 
 [back to homepage](https://arsarsars.github.io)
