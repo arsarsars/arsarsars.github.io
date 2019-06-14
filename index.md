@@ -22,8 +22,6 @@
 
 - 20 Jan 2019, ["FSTVLST di Proudphere Salatiga"](https://arsarsars.github.io/post/2019-01-20-fstvlst-di-proudphere-salatiga)
 
-- 30 Jan 2019, ["Perjalanan Hidupnya Panjang, Itulah Mengapa Bapak Terlihat Bijak Saat ini"](https://arsarsars.github.io/post/2019-01-30-perjalanan-hidupnya-panjang)
-
 - 15 Feb 2019, ["Apa Obsesimu, Za? Bermusik!"](https://arsarsars.github.io/post/2019-02-15-apa-obsesimu-za-bermusik)
 
 **Quotation**
