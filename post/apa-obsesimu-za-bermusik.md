@@ -1,4 +1,4 @@
-**Apa Obsesimu, Za? Bermusik!**
+## Apa Obsesimu, Za? Bermusik! ##
 
 Meski menurut saya, bertampang dangdut, Riza, terobsesi pada musik-musik rock. Jujur saja, secara musikalitas ia minim. Tapi kata bijak bestari, disiplin mengalahkan bakat.
 
