@@ -1,3 +1,5 @@
+**Apa Obsesimu, Za? Bermusik!**
+
 Meski menurut saya, bertampang dangdut, Riza, terobsesi pada musik-musik rock. Jujur saja, secara musikalitas ia minim. Tapi kata bijak bestari, disiplin mengalahkan bakat.
 
 Rajin masuk studio mengulik lagu. Cari studio murah yang sejamnya tak sampai Rp. 100.000, latihan ia di sana. Kadang, mengajak teman-teman yang main musiknya lebih establish. Ngulik-ngulik lagu. Dari R.E.M sampai Radiohead.
@@ -43,3 +45,7 @@ Semuanya berformat MP3 dan, tentu saja: RAW!
 “Tak semuanya aku masukkin Soundcloud. Yang di Soundcloud, yang kalem-kalem.” begitu katanya lewat WhatsApp.
 
 Maka, saya sarankan untuk berkunjung langsung ke Soundcloud-nya. Berikut link-nya. Saya sarankan untuk mengritiknya, kalau perlu dengan kata-kata yang pedas. Biar ia segera mengubur obsesinya bermusik, dan segera ikut jejak keluarganya: menjadi Pegawai Negeri Sipil.
+
+___
+
+[Back to Homepage](https://arsarsars.github.io)
