@@ -33,3 +33,7 @@ Kalau perasaan masing-masing pribadi bisa beda-beda karena secara personal hakik
 Mmm. Oktober rekaman lagi. Bisa tur ke kota lain, bahkan luar pulau kalau bisa. Kami suka travelling, pengin liat keindahan alam tempa lain. Band-band dari Solo mulai diperhatikan di kota lain, dan begitu sebaliknya. Makin banyak teman berbagk keceriaan, dan tidak sungkan berkomunikasi.
 
 ##### *5 Juli 2015 #####
+
+___
+
+[back to homepage](https://arsarsars.github.io)
