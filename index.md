@@ -20,9 +20,9 @@
 
 **Articles**
 
-- 20 Jan 2019, ["FSTVLST di Proudphere Salatiga"](https://arsarsars.github.io/post/2019-01-20-fstvlst-di-proudphere-salatiga)
+- "FSTVLST di Proudphere Salatiga", [link](https://arsarsars.github.io/post/fstvlst-di-proudphere-salatiga)
 
-- 15 Feb 2019, ["Apa Obsesimu, Za? Bermusik!"](https://arsarsars.github.io/post/2019-02-15-apa-obsesimu-za-bermusik)
+- "Apa Obsesimu, Za? Bermusik!", [link](https://arsarsars.github.io/post/apa-obsesimu-za-bermusik)
 
 **Quotation**
 
