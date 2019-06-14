@@ -2,8 +2,6 @@
 
 Proudphere hadir di Salatiga. Penampil utama? FSTVLST.
 
----
-
 Saya diajak teman yang die-hard untuk menonton tiap gigs FSTVLST, Anton namanya. Dia datang dari Solo — kota ia menimba ilmu. Mampir ke rumah untuk menjemput saya. Malam minggu itu, saya laptopan di kamar saja niatnya.
 
 “Tiketnya gratis. Asal bawa bungkus rokok.” tulisnya lewat WhatsApp.
