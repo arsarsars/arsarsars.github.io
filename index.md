@@ -26,6 +26,8 @@
 
 - "[Interview: Pathetic Waltz](https://arsarsars.github.io/post/interview-pathetic-waltz)"
 
+- ... [more article click here](https://arsarsars.github.io/read).
+
 **Quotation**
 
 - "More for others, enough for everybody." -- from T.P. Rachmat
