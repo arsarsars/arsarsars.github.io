@@ -50,6 +50,8 @@ Yang penting mah tahan lama..
 
 Santai aja.
 
+##### 4 September 2015, Depok.
+
 ___
 
 [back to homepage](https://arsarsars.github.io)
