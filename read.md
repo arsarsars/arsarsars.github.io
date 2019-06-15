@@ -13,6 +13,8 @@
 
 - "[Interview: Pathetic Waltz](https://arsarsars.github.io/post/interview-pathetic-waltz)", 5 Juli 2015, Interview.
 
+- "[Menghabiskan Malam Minggu di Pria itu Moshing bukan Dancing](arsarsars.github.io/post/pria-itu-moshing-bukan-dancing)", 17 Mei 2015, Catatan Konser.
+
 ___
 
 [back to homepage](https://arsarsars.github.io)
