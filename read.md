@@ -10,6 +10,8 @@
 
 - "[Class Musik Hits Community Boyolali](arsarsars.github.io/post/class-music-hits-boyolali)", 10 September 2015, Catatan Konser.
 
+- "[Sedikit Tentang Pathetic Waltz](arsarsars.github.io/post/sedikit-tentang-pathetic-waltz)", 5 September 2015, Catatan.
+
 - "[Interview: Radang Kelamin](arsarsars.github.io/post/dzaoent-radang-kelamin)", 4 September 2015, Interview.
 
 
