@@ -8,6 +8,8 @@
 
 - "[Junot dan Luna](http://www.lpmapresiasi.org/2018/02/junot-dan-luna.html)", February 2018, LPM Apresiasi, Cerpen.
 
+- "[Class Musik Hits Community Boyolali](arsarsars.github.io/post/class-music-hits-boyolali)", 10 September 2015, Catatan Konser.
+
 - "[Interview: Radang Kelamin](arsarsars.github.io/post/dzaoent-radang-kelamin)", 4 September 2015, Interview.
 
 
