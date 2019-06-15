@@ -8,6 +8,9 @@
 
 - "[Junot dan Luna](http://www.lpmapresiasi.org/2018/02/junot-dan-luna.html)", February 2018, LPM Apresiasi, Cerpen.
 
+- "[Interview: Radang Kelamin](arsarsars.github.io/post/dzaoent-radang-kelamin)", 4 September 2015, Interview.
+
+
 - "[Interview: Pathetic Waltz](https://arsarsars.github.io/post/interview-pathetic-waltz)", 5 Juli 2015, Interview.
 
 ___
