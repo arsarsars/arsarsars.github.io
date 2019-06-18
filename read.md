@@ -1,4 +1,4 @@
-## Article ##
+## Article
 
 - "[Apa Obsesimu, Za? Bermusik](https://arsarsars.github.io/post/apa-obsesimu-za-bermusik)", 15 February 2019, Artikel.
 
@@ -7,6 +7,10 @@
 - "[Membuang-buang Waktu Bersama Kawan-kawan](http://www.lpmapresiasi.org/2018/03/membuang-buang-waktu-bersama-kawan-kawan.html)", Maret 2018, LPM Apresiasi, Cerpen.
 
 - "[Junot dan Luna](http://www.lpmapresiasi.org/2018/02/junot-dan-luna.html)", February 2018, LPM Apresiasi, Cerpen.
+
+- "[Interview: WTNSS Band](arsarsars.github.io/post/interview-wtnss)", 10 February 2016, Blog.
+
+- "[Interview: Nematocyst, Death Metal Lumajang](https://arsarsars.github.io/post/interview-nematocyst)", 1 January 2016.
 
 - "[Class Musik Hits Community Boyolali](arsarsars.github.io/post/class-music-hits-boyolali)", 10 September 2015, Catatan Konser.
 
