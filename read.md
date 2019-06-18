@@ -8,20 +8,21 @@
 
 - "[Junot dan Luna](http://www.lpmapresiasi.org/2018/02/junot-dan-luna.html)", February 2018, LPM Apresiasi, Cerpen.
 
-- "[Interview: WTNSS Band](arsarsars.github.io/post/interview-wtnss)", 10 February 2016, Blog.
-
-- "[Interview: Nematocyst, Death Metal Lumajang](https://arsarsars.github.io/post/interview-nematocyst)", 1 January 2016.
-
 - "[Class Musik Hits Community Boyolali](arsarsars.github.io/post/class-music-hits-boyolali)", 10 September 2015, Catatan Konser.
 
 - "[Sedikit Tentang Pathetic Waltz](arsarsars.github.io/post/sedikit-tentang-pathetic-waltz)", 5 September 2015, Catatan.
 
+- "[Menghabiskan Malam Minggu di Pria itu Moshing bukan Dancing](arsarsars.github.io/post/pria-itu-moshing-bukan-dancing)", 17 Mei 2015, Catatan Konser.
+
+## Interview
+
+- "[Interview: WTNSS Band](arsarsars.github.io/post/interview-wtnss)", 10 February 2016, Blog.
+
+- "[Interview: Nematocyst, Death Metal Lumajang](https://arsarsars.github.io/post/interview-nematocyst)", 1 January 2016.
+
 - "[Interview: Radang Kelamin](arsarsars.github.io/post/dzaoent-radang-kelamin)", 4 September 2015, Interview.
 
-
 - "[Interview: Pathetic Waltz](https://arsarsars.github.io/post/interview-pathetic-waltz)", 5 Juli 2015, Interview.
-
-- "[Menghabiskan Malam Minggu di Pria itu Moshing bukan Dancing](arsarsars.github.io/post/pria-itu-moshing-bukan-dancing)", 17 Mei 2015, Catatan Konser.
 
 ___
 
