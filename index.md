@@ -2,7 +2,7 @@
 
 - Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
 
-- Bukit Asam, [PTBA:IJ](https://www.bloomberg.com/quote/PTBA:IJ), Stock
+- Harum Energy, [HRUM:IJ](https://www.bloomberg.com/quote/HRUM:IJ), Stock
 
 - Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
 
@@ -10,13 +10,23 @@
 
 **Investment Approach**
 
-- 100% Stock,
+- 100% Stock, 
 
 - 90% Long-term, 10% Swing
 
 - Dividend paying company will be good
 
 - Invest monthly, review monthly and focused, DCA?
+
+**Watchlist**
+
+- Wismilak Inti Makmur, [WIIM:IJ](https://www.bloomberg.com/quote/WIIM:IJ), Stock
+
+- Communication Cable Systems Indonesia, [CCSI:IJ](https://www.bloomberg.com/quote/CCSI:IJ), Stock
+
+- Bank Permata, [BNLI:IJ](https://www.bloomberg.com/quote/BNLI:IJ), Stock
+
+- Bank BRISyariah, [BRIS:IJ](https://www.bloomberg.com/quote/BRIS:IJ), Stock
 
 **Articles**
 
@@ -26,7 +36,7 @@
 
 - "[Interview: Pathetic Waltz](https://arsarsars.github.io/post/interview-pathetic-waltz)"
 
-- ... [more article click here](https://arsarsars.github.io/read).
+- ... more articles [click here](https://arsarsars.github.io/read).
 
 **Quotation**
 
