@@ -1,10 +1,10 @@
 **Current Portfolio**
 
-- Samudera Indonesia, [SMDR:IJ](https://www.bloomberg.com/quote/SMDR:IJ), Stock
+- Samudera Indonesia, [SMDR](https://stockbit.com/#/symbol/SMDR), Stock
 
-- Harum Energy, [HRUM:IJ](https://www.bloomberg.com/quote/HRUM:IJ), Stock
+- Harum Energy, [HRUM](https://stockbit.com/#/symbol/HRUM), Stock
 
-- Mitrabahtera Segara Sejati, [MBSS:IJ](https://www.bloomberg.com/quote/MBSS:IJ), Stock
+- Wismilak Inti Makmur, [WIIM](https://stockbit.com/#/symbol/WIIM), Stock
 
 - ... more, unpublished here.
 
@@ -20,13 +20,13 @@
 
 **Watchlist**
 
-- Wismilak Inti Makmur, [WIIM:IJ](https://www.bloomberg.com/quote/WIIM:IJ), Stock
+- Communication Cable Systems Indonesia, [CCSI](https://stockbit.com/#/symbol/CCSI), Stock
 
-- Communication Cable Systems Indonesia, [CCSI:IJ](https://www.bloomberg.com/quote/CCSI:IJ), Stock
+- Bank Permata, [BNLI](https://stockbit.com/#/symbol/BNLI), Stock
 
-- Bank Permata, [BNLI:IJ](https://www.bloomberg.com/quote/BNLI:IJ), Stock
+- Bank BRISyariah, [BRIS](https://stockbit.com/#/symbol/BRIS), Stock
 
-- Bank BRISyariah, [BRIS:IJ](https://www.bloomberg.com/quote/BRIS:IJ), Stock
+- Polychem Indonesia, [ADMG](https://stockbit.com/#/symbol/ADMG), Stock
 
 **Articles**
 
@@ -42,7 +42,9 @@
 
 - "More for others, enough for everybody." -- from T.P. Rachmat
 
-- "Kalo orang udah punya semuanya tanpa ada usaha, tentu aja dia gak akan pernah punya jiwa dan effort untuk meraih sesuatu. Karena semuanya udah ada. Jadinya ya gitu-gitu aja. Enak apa enggak? Tergantung orang. Kalau gue sih yang pasti boring beraattt! Tapi pengen juga sih." -- dari komentar di blog post-nya Enda Nasution tentang film About A Boy. No man is an island?
+- "Kalo orang udah punya semuanya tanpa ada usaha, tentu aja dia gak akan pernah punya jiwa dan effort untuk meraih sesuatu. Karena semuanya udah ada. Jadinya ya gitu-gitu aja. Enak apa enggak? Tergantung orang. Kalau gue sih yang pasti boring berat! Tapi pengen juga sih." -- dari komentar di blog post-nya Enda Nasution tentang film About A Boy. No man is an island?
+
+- Ray Kroc: "There's no obstacle under the sun that can't be overcome with honest hard work and determination. It's these core principles that enabled me to rise to the top of the heap at a point in life when most men would be thinking about retirement."
 
 **Contact**
 
