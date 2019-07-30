@@ -1,6 +1,6 @@
 **Current Portfolio**
 
-- Samudera Indonesia, [SMDR](https://stockbit.com/#/symbol/SMDR), Stock
+- Bukit Asam, [PTBA](https://stockbit.com/#/symbol/PTBA), Stock
 
 - Harum Energy, [HRUM](https://stockbit.com/#/symbol/HRUM), Stock
 
