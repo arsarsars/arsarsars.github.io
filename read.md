@@ -1,5 +1,7 @@
 ## Article
 
+-"[Investing wisdom from Motley Fool](https://arsarsars.github.io/post/investing-wisdom-from-fool)", 5 Oktober 2019, Artikel.
+
 - "[Apa Obsesimu, Za? Bermusik](https://arsarsars.github.io/post/apa-obsesimu-za-bermusik)", 15 February 2019, Artikel.
 
 - "[FSTVLST di Proudphere Salatiga](https://arsarsars.github.io/post/fstvlst-di-proudphere-salatiga)", 20 January 2019, Catatan.
