@@ -2,21 +2,21 @@
 
 - Bukit Asam, [PTBA](https://stockbit.com/#/symbol/PTBA), Stock
 
-- Harum Energy, [HRUM](https://stockbit.com/#/symbol/HRUM), Stock
-
 - Wismilak Inti Makmur, [WIIM](https://stockbit.com/#/symbol/WIIM), Stock
 
 - ... more, unpublished here.
 
 **Investment Approach**
 
-- 100% Stock, 
+- 40% stock, 5% mutual funds, 50% cash
 
-- 90% Long-term, 10% Swing
+- 90% very long term,
 
 - Dividend paying company will be good
 
-- Invest monthly, review monthly and focused, DCA?
+- Invest monthly, review monthly and focus investing, DCA?
+
+- If stock down 20%, buy more.
 
 **Watchlist**
 
