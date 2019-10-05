@@ -40,7 +40,7 @@
 
 **Quotation**
 
-- "More for others, enough for everybody." -- from T.P. Rachmat
+- "Less for self, more for others, enough for everyone." -- from T.P. Rachmat
 
 - "Kalo orang udah punya semuanya tanpa ada usaha, tentu aja dia gak akan pernah punya jiwa dan effort untuk meraih sesuatu. Karena semuanya udah ada. Jadinya ya gitu-gitu aja. Enak apa enggak? Tergantung orang. Kalau gue sih yang pasti boring berat! Tapi pengen juga sih." -- dari komentar di blog post-nya Enda Nasution tentang film About A Boy. No man is an island?
 
