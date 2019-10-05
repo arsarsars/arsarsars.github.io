@@ -1,4 +1,4 @@
-## From Motley Fool, on Twitter ##
+## From Motley Fool, on Twitter
 
 1. 'Compound interest is like planting trees. One day's progress shows nothing. A few years' progress shows a little. Ten years shows something big. 50+ years creates something stunningly magnificent.'
 
