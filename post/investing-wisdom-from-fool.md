@@ -9,3 +9,7 @@
 4. '(a) No one cares about your money like you, so spend less than you earn and invest the difference. (b) Buy companies, not tickers. (c) Think in years and decades, not days and weeks, and let compound interest do the heavy lifting.'
 
 5. '90% of finance is: spend less than you make, save the difference, invest, diversify, low cost, patience.'
+
+___
+
+[back to homepage](https://arsarsars.github.io)
