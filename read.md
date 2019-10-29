@@ -1,5 +1,7 @@
 ## Article
 
+- "[Memilih Reksadana Sesuai Profil Risiko](arsarsars.github.io/post/memilih-reksadana)", Samuel Aset Manajemen, 30 Oktober 2019, Artikel Investasi.
+
 - "[Investing wisdom from Motley Fool](https://arsarsars.github.io/post/investing-wisdom-from-fool)", 5 Oktober 2019, Artikel.
 
 - "[Apa Obsesimu, Za? Bermusik](https://arsarsars.github.io/post/apa-obsesimu-za-bermusik)", 15 February 2019, Artikel.
