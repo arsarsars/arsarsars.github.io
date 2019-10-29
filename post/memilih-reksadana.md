@@ -6,7 +6,7 @@ Khusus berinvestasi di reksadana, calon investor sudah dibagi karakternya berdas
 
 Dari hasil KYC  ini akan terbagi tiga profil risiko dari calon investor yakni investor konservatif, investor moderat, dan investor agresif.
 
-Investor Konservatif
+#Investor Konservatif
 
 Tipe investor ini cenderung menghindari risiko, dia lebih memilih produk yang memberikan rasa aman dan nyaman. Mereka tidak mengejar keuntungan investasi yang sangat besar tetapi lebih keuntungan investasi lebih sedikit tapi memberikan hasil secara stabil. Investor ini cocoknya memilih investasi reksadana pasar uang dan reksadana pendapatan tetap.
 
