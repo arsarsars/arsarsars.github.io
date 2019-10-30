@@ -1,14 +1,14 @@
-**Current Portfolio**
+**Largest Holding**
 
-- Bukit Asam, [PTBA](https://stockbit.com/#/symbol/PTBA), Stock
+- Bukit Asam, [PTBA](https://stockbit.com/#/symbol/PTBA), Stock, data from Stockbit
 
-- Wismilak Inti Makmur, [WIIM](https://stockbit.com/#/symbol/WIIM), Stock
+- SAM Dana Likuid Syariah, [SAMDLKS](https://www.bloomberg.com/quote/SAMDLKS:IJ), Funds, data from Bloomberg
 
 - ... more, unpublished here.
 
 **Investment Approach**
 
-- 40% stock, 5% mutual funds, 50% cash
+- 35% stock, 15% mutual funds, 50% cash
 
 - 90% very long term,
 
@@ -16,9 +16,13 @@
 
 - Invest monthly, review monthly and focus investing, DCA?
 
+- Cash is king
+
 - If stock down 20%, buy more.
 
 **Watchlist**
+
+- Harum Energy, [HRUM](https://stockbit.com/#/symbol/HRUM), Stock
 
 - Communication Cable Systems Indonesia, [CCSI](https://stockbit.com/#/symbol/CCSI), Stock
 
