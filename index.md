@@ -1,6 +1,8 @@
-**Largest Holding**
+**Largest Investment**
 
 - Bukit Asam, [PTBA](https://stockbit.com/#/symbol/PTBA), Stock, data from Stockbit
+
+- Samudera Indonesia [SMDR](https://stockbit.com/#/symbol/SMDR), Stock, data from Stockbit
 
 - SAM Dana Likuid Syariah, [SAMDLKS](https://www.bloomberg.com/quote/SAMDLKS:IJ), Funds, data from Bloomberg
 
@@ -16,21 +18,9 @@
 
 - Invest monthly, review monthly and focus investing, DCA?
 
-- Cash is king
+- 50% or more are in cash.
 
 - If stock down 20%, buy more.
-
-**Watchlist**
-
-- Harum Energy, [HRUM](https://stockbit.com/#/symbol/HRUM), Stock
-
-- Communication Cable Systems Indonesia, [CCSI](https://stockbit.com/#/symbol/CCSI), Stock
-
-- Bank Permata, [BNLI](https://stockbit.com/#/symbol/BNLI), Stock
-
-- Bank BRISyariah, [BRIS](https://stockbit.com/#/symbol/BRIS), Stock
-
-- Polychem Indonesia, [ADMG](https://stockbit.com/#/symbol/ADMG), Stock
 
 **Articles**
 
