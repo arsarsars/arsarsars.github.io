@@ -16,3 +16,6 @@
 16. Everytime you earn $1, invest 10 cents of it.
 17. Start small. $10 a month. Buy an index ETF. Up the ante. $50 a month. Then $100. Eventually, more. Buy some stocks. Hold them for years. The market drops? Buy more. Big news headlines? Ignore 'em. Invest every month. That's foolish.
 18. a. No one cares about your money like you, so spend less than you earn and invest the difference. b. Buy companies, not tickers. c. Think in years and decades, not days and weeks, and let compound interest do the heavy lifting.
+19. "Less for self. More for others. Enough for everybody." - Theodore Permadi Rachmat
+20. “Kalo orang udah punya semuanya tanpa ada usaha, tentu aja dia gak akan pernah punya jiwa dan effort untuk meraih sesuatu. Karena semuanya udah ada. Jadinya ya gitu-gitu aja. Enak apa enggak? Tergantung orang. Kalau gue sih yang pasti boring berat! Tapi pengen juga sih.” – dari komentar di blog post-nya Enda Nasution tentang film About A Boy. No man is an island?
+21. Ray Kroc: “There’s no obstacle under the sun that can’t be overcome with honest hard work and determination. It’s these core principles that enabled me to rise to the top of the heap at a point in life when most men would be thinking about retirement.”
