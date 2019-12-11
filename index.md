@@ -1,2 +1,3 @@
-A. Susanto
-S. Wahyuni
+Partners:
+
+A. Susanto & S. Wahyuni
