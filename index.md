@@ -1,21 +1,2 @@
-1. Cowok itu musti jujur. Sampai monyet akhirnya bisa bertelur akan terus berkata jujur: walau nasi terlanjur jadi bubur.
-2. Cowok itu nggak itungan. Selalu tebar senyuman. Sering ngadain traktiran, meski baru kenalan.
-3. Cowok itu pantang pelit. Hidup tak pernah dibawa rumit. Kalau ngasih gak pernah sedikit. Meski dompet lagi pailit.
-4. Cowok itu musti pintar-pintar bersyukur walau rejeki maju mundur. Lagi asyik libur atau kerja lembur: akan selalu menghibur. Ini baru cowok yang bisa diandalkan.
-5. Kita adalah serigala. Mengintai mangsa di kebisingan malam. Kita larut. Kita lupa dengan ingar bingar cahaya. Seperti ngengat. Serupa kawanan zebra. Kita bergerak bersama mengikuti arus. Kita ingin bebas untuk liar. Namun jangan pernah lupa, kita adalah manusia.
-6. Adakalanya, satu reaksi membuat segalanya lebih berarti.
-7. Mana yang akan dijalani. Arah mana yang akan dituju. Pilihan salah, terkadang membawa kita ke arah yang benar. Pilihan benar, membuka jalan menuju pengalaman. Saat dihadapkan pilihan: pilih untuk menjalani.
-8. Kebebasan itu omong kosong. Katanya bebas berteman dengan siapa saja. Asalkan, orangtua suka. Katanya jadi laki-laki itu jangan takut gagal. Tapi juga jangan bodoh untuk ambil resiko. Mending kerja dulu. Cari pengalaman. Katanya urusan jodoh sepenuhnya ada di tangan. Asalkan dari keluarga terpandang. Gak punya cantik, tapi juga santun, berpendidikan. Katanya jaman sekarang, pilihan itu gak ada batasnya. Selama ikuti pilihan yang ada.
-9. Untuk mereka yang bertanya-tanya, "dalam hidup apa yang dicari?" Dengar panggilan ini. Kejar mimpi. Tanpa peduli besar atau kecil. Jangan berpikir dua kali. Ragu-ragu tak pernah memberi kepastian. Melangkahlah ke mana hati ingin melangkah. Go Ahead!
-10. Terkadang, semua bisa didapatkan saat semua dilepaskan.
-11. Sahabat sejiwa, semua mencari. Canda, tawa, pelepasan, semua mencari. Tempat di mana kau mencinta, semua mencari. Tempat menarik untuk berbagi, semua mencari. Emas di antara sampah, semua mencari. Puncak gunung sejarah tentang kita, semua mencari. Untuk ditemukan. Temu arti. Temu mimpi. Temu kamu. Cari dan temu.
-12. Orang bilang kita terhubung. Pernahkah kita berpikir bahwa apa yang kita awali menentukan apa yang akan terjadi.
-13. Untuk yang tidak pernah nyaman. Yang tak pernah berhenti mencari. Untuk siapa yang bertujuan untuk tersesat. Mengikuti ke mana hati ingin pergi. Untuk yang malu untuk malu. Berusaha sama agar berbeda. Untuk yang takut, takutlah pada penyesalan. Untuk sang pelopor dan sang pemberontak. Lupa daratan pada segala tantangan dan kemungkinan. Untuk yang siap tersandung tanpa harus jatuh. Untuk yang siap mencari dan tersesat. Untuk yang siap hidup untuk diri.
-14. The fastest (and riskiest) way to make a wealth is to build a business yourself.
-15. Compound interest is like planting trees. One day's progress shows nothing. A few years' progress shows a little. Ten years shows something big. 50+ years creates something stunningly magnificent.
-16. Everytime you earn $1, invest 10 cents of it.
-17. Start small. $10 a month. Buy an index ETF. Up the ante. $50 a month. Then $100. Eventually, more. Buy some stocks. Hold them for years. The market drops? Buy more. Big news headlines? Ignore 'em. Invest every month. That's foolish.
-18. a. No one cares about your money like you, so spend less than you earn and invest the difference. b. Buy companies, not tickers. c. Think in years and decades, not days and weeks, and let compound interest do the heavy lifting.
-19. "Less for self. More for others. Enough for everybody." - Theodore Permadi Rachmat
-20. “Kalo orang udah punya semuanya tanpa ada usaha, tentu aja dia gak akan pernah punya jiwa dan effort untuk meraih sesuatu. Karena semuanya udah ada. Jadinya ya gitu-gitu aja. Enak apa enggak? Tergantung orang. Kalau gue sih yang pasti boring berat! Tapi pengen juga sih.” – dari komentar di blog post-nya Enda Nasution tentang film About A Boy. No man is an island?
-21. Ray Kroc: “There’s no obstacle under the sun that can’t be overcome with honest hard work and determination. It’s these core principles that enabled me to rise to the top of the heap at a point in life when most men would be thinking about retirement.”
+A. Susanto
+S. Wahyuni
