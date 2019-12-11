@@ -1,3 +1,1 @@
-Partners:
-
-A. Susanto & S. Wahyuni
+kami adalah kami. adalah kamu juga. dan kita, adalah makhluk wujud. bukan astral. dua partner, bisa dikatakan hidup. untuk. bersama. dan berpisah bukan tujuan utama kami. maka tetap dukung, kami. jangan sampai kita berpisah. bahaya. kamu tak akan kuat. saya kuat. tapi tahan lama itu tidak. suatu ketika perusahaan kami tumbuh. kamu akan kami angkat juga. toh kamu wujud bukan astral. kami takut. bukan pada kamu. bukan pada tiran. bukan pada astral. tapi pada yme. oke. trims.
