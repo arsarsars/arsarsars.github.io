@@ -1,49 +1,37 @@
-**Largest Investment**
+## Article
 
-- Bukit Asam, [PTBA](https://stockbit.com/#/symbol/PTBA), Stock, data from Stockbit
+- "[Barang halal bisa berbunga seperti barang haram](arsarsars.github.io/post/barang-halal)", 06 Januari 2020, Artikel.
 
-- Samudera Indonesia [SMDR](https://stockbit.com/#/symbol/SMDR), Stock, data from Stockbit
+- "[Memilih Reksadana Sesuai Profil Risiko](arsarsars.github.io/post/memilih-reksadana)", Samuel Aset Manajemen, 30 Oktober 2019, Artikel Investasi.
 
-- SAM Dana Likuid Syariah, [SAMDLKS](https://www.bloomberg.com/quote/SAMDLKS:IJ), Funds, data from Bloomberg
+- "[Investing wisdom from Motley Fool](https://arsarsars.github.io/post/investing-wisdom-from-fool)", 5 Oktober 2019, Artikel.
 
-- ... more, unpublished here.
+- "[Apa Obsesimu, Za? Bermusik](https://arsarsars.github.io/post/apa-obsesimu-za-bermusik)", 15 February 2019, Artikel.
 
-**Investment Approach**
+- "[FSTVLST di Proudphere Salatiga](https://arsarsars.github.io/post/fstvlst-di-proudphere-salatiga)", 20 January 2019, Catatan.
 
-- 35% stock, 15% mutual funds, 50% cash
+- "[Membuang-buang Waktu Bersama Kawan-kawan](http://www.lpmapresiasi.org/2018/03/membuang-buang-waktu-bersama-kawan-kawan.html)", Maret 2018, LPM Apresiasi, Cerpen.
 
-- 90% very long term,
+- "[Junot dan Luna](http://www.lpmapresiasi.org/2018/02/junot-dan-luna.html)", February 2018, LPM Apresiasi, Cerpen.
 
-- Dividend paying company will be good
+- "[Class Musik Hits Community Boyolali](arsarsars.github.io/post/class-music-hits-boyolali)", 10 September 2015, Catatan Konser.
 
-- Invest monthly, review monthly and focus investing, DCA?
+- "[Sedikit Tentang Pathetic Waltz](arsarsars.github.io/post/sedikit-tentang-pathetic-waltz)", 5 September 2015, Catatan.
 
-- 50% or more are in cash.
+- "[Menghabiskan Malam Minggu di Pria itu Moshing bukan Dancing](arsarsars.github.io/post/pria-itu-moshing-bukan-dancing)", 17 Mei 2015, Catatan Konser.
 
-- If stock down 20%, buy more.
+## Interview
 
-**Articles**
+- "[Interview: WTNSS Band](arsarsars.github.io/post/interview-wtnss)", 10 February 2016, Blog.
 
-- "[FSTVLST di Proudphere Salatiga](https://arsarsars.github.io/post/fstvlst-di-proudphere-salatiga)"
+- "[Interview: Nematocyst, Death Metal Lumajang](https://arsarsars.github.io/post/interview-nematocyst)", 1 January 2016.
 
-- "[Apa Obsesimu, Za? Bermusik!](https://arsarsars.github.io/post/apa-obsesimu-za-bermusik)"
+- "[Interview: Radang Kelamin](arsarsars.github.io/post/dzaoent-radang-kelamin)", 4 September 2015, Interview.
 
-- "[Interview: Pathetic Waltz](https://arsarsars.github.io/post/interview-pathetic-waltz)"
+- "[Interview: Pathetic Waltz](https://arsarsars.github.io/post/interview-pathetic-waltz)", 5 Juli 2015, Interview.
 
-- ... more articles [click here](https://arsarsars.github.io/read).
+___
 
-**Quotation**
+[back to homepage](https://arsarsars.github.io)
 
-- "Less for self, more for others, enough for everyone." -- from T.P. Rachmat
-
-- "Kalo orang udah punya semuanya tanpa ada usaha, tentu aja dia gak akan pernah punya jiwa dan effort untuk meraih sesuatu. Karena semuanya udah ada. Jadinya ya gitu-gitu aja. Enak apa enggak? Tergantung orang. Kalau gue sih yang pasti boring berat! Tapi pengen juga sih." -- dari komentar di blog post-nya Enda Nasution tentang film About A Boy. No man is an island?
-
-- Ray Kroc: "There's no obstacle under the sun that can't be overcome with honest hard work and determination. It's these core principles that enabled me to rise to the top of the heap at a point in life when most men would be thinking about retirement."
-
-**Contact**
-
-I am reachable via email: [arie@orakoberleren.com](mailto:arie@orakoberleren.com), currently unable to give you direct response.
-
-
-
-
+ 
