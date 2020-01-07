@@ -1,8 +1,6 @@
 ## Barang halal bisa kalahkan barang haram ##
 
-Terhenyak sejenak dengar ceramah Gus Baha’ tentang ekonomi halal:
-
----
+Terhenyak sejenak dengar ceramah Gus Baha’ tentang ekonomi halal yang saya simak di Youtube, berikut saya sarikan yang saya maksut:
 
 Allah itu punya sunah, di mana orang yang punya tabungan tentu lebih baik dari yang tidak punya tabungan. Dan Allah juga punya sunah bahwa barang halal itu juga berbungan seperti barang haram.
 
@@ -16,5 +14,5 @@ Sama halnya, ada bapak punya anak. Anaknya ini didepositokan uang sejuta. Diband
 
 ---
 
-Saat catatan ini ditulis, Bukit Asam (PTBA) telah saya jual kepemilikannya total. Begitu juga dengan Polychem Indonesia (ADMG). Pasca mendengar ceramah Gus Baha' saya begitu terkesan. Masuk akal juga, dan ingin cepat-cepat diterapkan ke bidang muamalah dan wirausaha yang real. Semoga tetap istiqamah.
+[back to homepage](https://arsarsars.github.io)
 
