@@ -1,5 +1,7 @@
 ## Article
 
+/ "[Lazardi](arsarsars.github.io/post/tahun-baru)", 08 Januari 2020, Blog.
+
 / "[Barang halal bisa berbunga seperti barang haram](arsarsars.github.io/post/barang-halal)", 06 Januari 2020, Artikel.
 
 / "[Memilih Reksadana Sesuai Profil Risiko](arsarsars.github.io/post/memilih-reksadana)", Samuel Aset Manajemen, 30 Oktober 2019, Artikel Investasi.
