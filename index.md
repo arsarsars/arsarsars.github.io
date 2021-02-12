@@ -36,7 +36,7 @@
 | 11/11/20 |	Raiz + Dana |	Cashback beli reksadana pakai voucher Raiz di Dana |	7000 |	4216000 |
 | 15/11/20 |	Permata |	Cashback pembelian pulsa |	15000 |	
 | 16/11/02 |	Dana + Raiz |	Cashback beli reksadana |	4500 |	
-| 16/11/20 |	Permata Bank |	Menang kuis di Twitter |	100000 | 	4335500
+| 16/11/20 |	Permata Bank |	Menang kuis di Twitter |	100000 | 	4335500 |
 | 24/11/20 |	Dana + Raiz |	Cashback beli reksadana pakai voucher Raiz di Dana |	4500	|
 | 03/12/20 |	Samuel Aset Manajemen |	Voucher reksadana IDR 1.000.000 |	100000	|
 | 08/12/20 |	Bibit + Gopay |	Cashback reksadana Bibit, bayar pakai GoPay |	120000	|
