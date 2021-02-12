@@ -33,7 +33,7 @@
 | 02/11/20 |	Bibit + LinkAja |	Cashback beli reksadana idr 100k LinkAja |	5000 |	
 | 05/11/20 |	Moinves + LinkAja |	Cashback beli reksadana 500k via LinkAja |	5000	|
 | 09/11/20 |	Bibit + Gopay |	Cashback beli reksadana IDR 1000K via GoPay |	110000 |	
-| 11/11/20 |	Raiz + Dana	Cashback beli reksadana pakai voucher Raiz di Dana |	7000 |	4216000 |
+| 11/11/20 |	Raiz + Dana |	Cashback beli reksadana pakai voucher Raiz di Dana |	7000 |	4216000 |
 | 15/11/20 |	Permata |	Cashback pembelian pulsa |	15000 |	
 | 16/11/02 |	Dana + Raiz |	Cashback beli reksadana |	4500 |	
 | 16/11/20 |	Permata Bank |	Menang kuis di Twitter |	100000 | 	4335500
