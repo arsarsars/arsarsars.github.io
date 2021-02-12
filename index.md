@@ -7,7 +7,7 @@
 | 15/07/20 |	Raiz + Dana |	Voucher investasi di bulan ramadhan, paling banyak |	1.116.000	|
 | 17/04/20 |	Shopback |	Menang GiveAway Instagram pertama kali |	500.000 |	
 | 17/07/20 |	Jenius + OH.IRV |	Menang GiveAway, merchandise OH.IRV | |		
-| 31/07/20 |	Bibit + GoPay |	Cashback GoPay |	50000	|
+| 31/07/20 |	Bibit + GoPay |	Cashback GoPay |	50.000	|
 | 04/08/20 |	digibank by DBS |	Penempatan saldo tabungan IDR 500.000 | 50.000 |	
 | 10/08/20 |	Permata Bank |	Cashback funtastic friday top up GoPay |	20.000 |	
 | 10/08/20 |	Blibli |	Cashback beli Infinix HOT 9 |	116.000 |	
@@ -50,4 +50,4 @@
 | 09/02/21 |	Jenius + Tokopedia |	Beli reksa dana, niat untuk voucher malah dapat GiftCard | 20.000 |	
 | 10/02/21 |	Danareksa + Shopee |	Beli reksa dana IDR 100K |	7.500 |	
 | 11/02/21 |	Bibit + Gopay |	Angpau, spesial Imlek, dua akun gross total, IDR 88.888 | 170.000	|
-| 11/02/21 |	Shopee |	Lagi-lagi, langganan Kompas.id bayar pakai KoinShopee |	45000	| 5196500 |
+| 11/02/21 |	Shopee |	Lagi-lagi, langganan Kompas.id bayar pakai KoinShopee |	45.000	| 5.196.500 |
