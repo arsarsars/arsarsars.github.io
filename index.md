@@ -1,10 +1,10 @@
-| date | provider | note | amount | in total |
+| Date | Provider | note | Amount | In Total |
 |------|----------|------|--------|----------|	
-| 20/06/20 |	jenius + shopee |	voucher shopee review jenius di googleplay|	800000 |
-| 26/05/20 | jenius co.create |	menang challenge ‘apa arti pulang’ |	200000 |
-| 03/06/20 |	yougov indonesia |	survei online, tokopedia gift card | 200000	|
-| 21/05/20 |	linkaja syariah |	event online, ekonomi dan perbankan syariah |	50000 |
-| 15/07/20 |	raiz + dana |	voucher investasi di bulan ramadhan, paling banyak |	1116000	|
+| 20/06/20 |	Jenius + Shopee |	Voucher shopee review jenius di googleplay|	800000 |
+| 26/05/20 | Jenius Co.Create |	Menang challenge ‘apa arti pulang’ |	200000 |
+| 03/06/20 |	Yougov Indonesia |	survei online, tokopedia gift card | 200000	|
+| 21/05/20 |	Linkaja Syariah |	event online, ekonomi dan perbankan syariah |	50000 |
+| 15/07/20 |	Raiz + Dana |	voucher investasi di bulan ramadhan, paling banyak |	1116000	|
 | 17/04/20 |	shopback |	menang giveaway pertama kali |	500000 |	
 | 17/07/20 |	jenius + oh.irv |	menang giveaway, merchandise oh.irv | |		
 | 31/07/20 |	bibit + gopay |	cashback gopay |	50000	|
