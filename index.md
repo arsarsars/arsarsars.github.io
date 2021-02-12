@@ -2,6 +2,10 @@
 |------|:--------:|-----:|-------:|---------:|	
 | 20/06/20 |	jenius + shopee |	voucher shopee review jenius di googleplay|	800000 |
 |26/05/20 | jenius co.create |	menang challenge ‘apa arti pulang’ |	200000 |
+
+
+
+
 03/06/20	yougov indonesia	survei online, tokopedia gift card	200000	
 21/05/20	linkaja syariah	event online, ekonomi dan perbankan syariah	50000	
 15/07/20	raiz + dana	voucher investasi di bulan ramadhan, paling banyak	1116000	
