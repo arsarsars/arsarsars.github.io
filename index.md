@@ -51,3 +51,4 @@
 | 10/02/21 |	Danareksa + Shopee |	Beli reksa dana IDR 100K |	7.500 |	
 | 11/02/21 |	Bibit + Gopay |	Angpau, spesial Imlek, dua akun gross total, IDR 88.888 | 170.000	|
 | 11/02/21 |	Shopee |	Lagi-lagi, langganan Kompas.id bayar pakai KoinShopee |	45.000	| 5.196.500 |
+| 13/02/21 | digibank by DBS | TRF IDR 200.000 | 5.000 | |
