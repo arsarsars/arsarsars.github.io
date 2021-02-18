@@ -56,4 +56,4 @@
 
 --------
 
-| Homepage | Tools | Contact | [Read](https://arsarsars.github.io/read) |
+| [Homepage](https://arsarsars.github.io) | [Tools](/tools) | Contact | [Articles](/read) |
