@@ -1,9 +1,9 @@
-Financial Services
 
-| Name | Note |
+| Bank | Social | Brokerage |
 |------|------|
-| BCA | Main Bank |
-| digibank by DBS Indonesia | Term Deposit & Bonds |
-| BRI Simpedes | My very first bank |
-| Jenius by BTPN | Three years of using |
-| PermataMe by Permata Bank | Functionality |
+| BCA | Twitter | Sinarmas Sekuritas
+| digibank by DBS Indonesia | Instagram |
+| BRI Simpedes | Facebook |
+| Jenius by BTPN | WordPress ||
+| PermataMe by Permata Bank | ||
+| Maybank |||
