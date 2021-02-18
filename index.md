@@ -55,4 +55,4 @@
 
 
 ------
-| [Tools](/tools) | [Contact](/contact) | [Articles](/read) |
+Since you stopping in this site: THANK YOU!
