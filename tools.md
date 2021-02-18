@@ -1,9 +1,10 @@
 
-| Bank | Social | Brokerage |
-|------|------|-------------|
-| BCA  | Twitter | Sinarmas Sekuritas
-| digibank by DBS Indonesia | Instagram |
-| BRI Simpedes | Facebook |
-| Jenius by BTPN | WordPress ||
-| Permata Bank | ||
-| Maybank |||
+| Bank            | Social     | Brokerage     | Mutual Funds        |
+|-----------------|------------|---------------|---------------------|
+| BCA             | Twitter    | Sinarmas Sek. | Bibit               |
+| digibank by DBS | Instagram  |               | Bareksa             |
+| BRI Simpedes    | Facebook   |               | Tanamduit           |
+| Jenius by BTPN  | WordPress  |               | Moinves             |
+| Permata Bank    |            |               | Ajaib               |
+| Maybank         |            |               | SAM                 |
+|                 |            |               | Tokopedia ReksaDana |
