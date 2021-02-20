@@ -15,7 +15,7 @@
 | 18/08/20 |	Permata Bank + Blibli	| Voucher Blibli 100K pembayaran Pluang emas |	100.000 |	
 | 19/08/20 |	Jenius Co.Create |	Saldo GoPay cerita 'Sempat Empat', dua akun	| 200.000	|
 | 21/08/20 |	GoPay + Bibit |	Voucher 75K reksadana Bibit bayar via GoPay dua akun |	150.000|	
-| 22/08/20 |	rakuten insight |	Survei online, Tokopedia Gift Card |	50.000 |	
+| 22/08/20 |	Rakuten Insight Survey |	Survei online, Tokopedia Gift Card |	50.000 |	
 | 28/08/20 |	tanamduit + shopeepay |	Cashback beli reksa dana	| 7.500 |	
 | 06/09/20 |	jenius co.create |	Sling bag Jenius x Jaka Rakhmat	| |	
 | 18/09/20 |	Bibit + GoPay |	Cashback beli reksa dana Bibit idr 1000K|	50.000	|
@@ -52,7 +52,6 @@
 | 11/02/21 |	Bibit + Gopay |	Angpau, spesial Imlek, dua akun gross total, IDR 88.888 | 170.000	|
 | 11/02/21 |	Shopee |	Lagi-lagi, langganan Kompas.id bayar pakai KoinShopee |	45.000	| 5.196.500 |
 | 13/02/21 | digibank by DBS | TRF IDR 200.000 | 5.000 | |
-
+| 20/02/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 75.000 | 5.276.500
 
 ------
-Since you stopping in this site: THANK YOU!
