@@ -54,3 +54,4 @@
 | 13/02/21 | digibank by DBS | TRF IDR 200.000 | 5.000 | |
 | 20/02/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 75.000 | 5.276.500 |
 | 21/02/21 | Tanamduit + ShopeePay | Beli reksa dana Tanamduit bayar pakai cashback KoinShopee | 17.000 | 
+| 22/02/21 | Raiz | Program member get member | 20.000 |
