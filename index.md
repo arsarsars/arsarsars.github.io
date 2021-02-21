@@ -52,6 +52,6 @@
 | 11/02/21 |	Bibit + Gopay |	Angpau, spesial Imlek, dua akun gross total, IDR 88.888 | 170.000	|
 | 11/02/21 |	Shopee |	Lagi-lagi, langganan Kompas.id bayar pakai KoinShopee |	45.000	| 5.196.500 |
 | 13/02/21 | digibank by DBS | TRF IDR 200.000 | 5.000 | |
-| 20/02/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 75.000 | 5.276.500
-
+| 20/02/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 75.000 | 5.276.500 |
+| 21/02/21 | Tanamduit + ShopeePay | Beli reksa dana Tanamduit bayar pakai cashback KoinShopee | 17.000 | |
 ------
