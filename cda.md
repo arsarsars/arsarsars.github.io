@@ -1,3 +1,7 @@
+##About
+
+Hi, I am A. Susanto an International Relations student at Slamet Riyadi University, Surakarta. This site is just another site on the internet.
+
 ## Article
 
 / "[Lazardi](arsarsars.github.io/post/tahun-baru)", 08 Januari 2020, Blog.
