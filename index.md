@@ -55,3 +55,4 @@
 | 20/02/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 75.000 | 5.276.500 |
 | 21/02/21 | Tanamduit + ShopeePay | Beli reksa dana Tanamduit bayar pakai cashback KoinShopee | 17.000 | 
 | 22/02/21 | Raiz | Program member get member | 20.000 |
+| 24/02/21 | Tokopedia + Jenius | Giftcard beli Tokopedia Reksa Dana pertama kali | 20.000 |
