@@ -47,7 +47,7 @@
 | 11/01/21 |	Shopee |	Voucher langganan Kompas.id beli KoinShopee |	45.000	|
 | 30/01/21 |	Various provider | lama tak mencatat, gross saja – alias perkiraan | 200.000 |	
 | 09/02/21 |	digibank by DBS + LinkAja |	Top up IDR 600.000	| 30.000	|
-| 09/02/21 |	Jenius + Tokopedia |	Beli reksa dana, niat untuk voucher malah dapat GiftCard | 20.000 |	
+| 09/02/21 |	Jenius + Tokopedia |	Tokopedia Giftcard beli TokopediaReksaDana pertama kali | 20.000 |	
 | 10/02/21 |	Danareksa + Shopee |	Beli reksa dana IDR 100K |	7.500 |	
 | 11/02/21 |	Bibit + Gopay |	Angpau, spesial Imlek, dua akun gross total, IDR 88.888 | 170.000	|
 | 11/02/21 |	Shopee |	Lagi-lagi, langganan Kompas.id bayar pakai KoinShopee |	45.000	| 5.196.500 |
@@ -55,4 +55,4 @@
 | 20/02/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 75.000 | 5.276.500 |
 | 21/02/21 | Tanamduit + ShopeePay | Beli reksa dana Tanamduit bayar pakai cashback KoinShopee | 17.000 | 
 | 22/02/21 | Raiz | Program member get member | 20.000 |
-| 24/02/21 | Tokopedia + Jenius | Giftcard beli Tokopedia Reksa Dana pertama kali | 20.000 |
+| 24/02/21 | Tokopedia + Jenius | Tokopedia Giftcard beli TokopediaReksaDana pertama kali | 20.000 | 5.333.500
