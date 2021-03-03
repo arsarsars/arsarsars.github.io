@@ -58,3 +58,4 @@
 | 24/02/21 | Tokopedia + Jenius | Tokopedia Giftcard beli Tokped RDN pertama kali | 20.000 | 5.333.500
 | 27/02/21 | DBS | TRF IDR 500.000 | 20.000 |
 | 02/03/21 | Tanamduit + ShopeePay | Beli reksa dana cashback KoinShopee | 5.000| 
+| 03/03/21 | Shopee | Festival belanja 3.3 belanja IDR 66.200 dapat cashback | 3.310 |
