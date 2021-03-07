@@ -59,4 +59,6 @@
 | 27/02/21 | DBS | TRF IDR 500.000 | 20.000 |
 | 02/03/21 | Tanamduit + ShopeePay | Beli reksa dana cashback KoinShopee | 5.000| 
 | 03/03/21 | Shopee | Belanja IDR 481.200 dapat cashback KoinShopee | 24.471 |
-| 07/03/21 | IM3 Ooredoo | Bonus kuota 1GB | IDR 5.000 |
+| 07/03/21 | IM3 Ooredoo | Bonus kuota 1GB | 5.000 |
+| 07/03/21 | Go-Jek | Spesial anniversary bonus langganan sebulan Genflix | 49.000 |
+| 07/03/21 | IM3 Ooredoo | Bonus langganan Amazon Prime Video sebulan | 89.000 |
