@@ -61,3 +61,4 @@
 | 03/03/21 | Shopee | Belanja IDR 481.200 dapat cashback KoinShopee | 24.471 |
 | 07/03/21 | IM3 Ooredoo | Bonus kuota 1GB | 5.000 |
 | 07/03/21 | Go-Jek | Spesial anniversary bonus langganan sebulan Genflix | 49.000 |
+| 09/03/21 | Jenius | Monyay | 6.500 |
