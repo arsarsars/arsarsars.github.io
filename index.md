@@ -65,3 +65,5 @@
 | 10/03/21 | Shopee | Langganan Kompas.id sebulan bayar 5.000 KoinShopee | 45.000 |
 | 11/03/21 | Jenius Co.Create | Menang survei, hadiah merchandise Jenius x Jaka Rakhmat |
 | 11/03/21 | Shopee | Bayar tagihan XL Prioritas | 3.414 |
+| 11/03/21 | Dana + DBS | Top up Dana pakai debit DBS | 30.000 |
+| 12/03/21 | Dana + DBS | Top up Dana pakai debit DBS | 30.000 |
