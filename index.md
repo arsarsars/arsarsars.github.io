@@ -68,4 +68,4 @@
 | 11/03/21 | Dana + DBS | Top up Dana pakai debit DBS | 30.000 |
 | 12/03/21 | Dana + DBS | Top up Dana pakai debit DBS | 30.000 | 5.548.471 |
 | 15/03/21 | Jenius | Monyay | 6.500 |
-| 15/03/21 | Jenius | Voucher Shopee 100K dua akun, investasi TokpedReksa bayar pakai Jenius Pay | 200.000 |
+| 15/03/21 | Jenius | Voucher Shopee 100K dua akun, Tokopedia Reksa Dana | 200.000 |
