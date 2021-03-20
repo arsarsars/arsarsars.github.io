@@ -69,3 +69,7 @@
 | 12/03/21 | Dana + DBS | Top up Dana pakai debit DBS | 30.000 | 5.548.471 |
 | 15/03/21 | Jenius | Monyay | 6.500 |
 | 15/03/21 | Jenius | Voucher Shopee 100K dua akun, Tokopedia Reksa Dana | 200.000 |
+| 17/03/21 | Shopee | Cashback beli paket data | 2.675 |
+| 18/03/21 | Jenius + Tokopedia | Beli Tokopedia Reksa Dana 1.5 juta bayar via JeniusPay, dua akun | 200.000 |
+| 19/03/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 100.000 |
+
