@@ -71,4 +71,4 @@
 | 15/03/21 | Jenius | Voucher Shopee 100K dua akun, Tokopedia Reksa Dana | 200.000 |
 | 17/03/21 | Shopee | Cashback beli paket data | 2.675 |
 | 19/03/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 100.000 |
-
+| 20/03/21 | Bibit + Gopay | Beli reksa dana 500.000 cashback 10.000 |
