@@ -72,3 +72,4 @@
 | 17/03/21 | Shopee | Cashback beli paket data | 2.675 |
 | 19/03/21 | Rakuten Insight Surveys | Giftcard Tokopedia, OVO Points | 100.000 |
 | 20/03/21 | Bibit + Gopay | Beli reksa dana 500.000 bayar via GoPay | 10.000 |
+| 22/03/21 | Raiz | Program member get member | 20.000 |
