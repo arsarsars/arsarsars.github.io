@@ -2,8 +2,8 @@
 |------|----------|------|--------|
 | 20/06/20 |	Jenius + Shopee |	Voucher shopee review Jenius di Google Play |	800.000 |
 | 26/05/20 | Jenius Co.Create |	Menang challenge ‘Apa Arti Pulang’ |	200.000 |
-| 03/06/20 |	Yougov Indonesia |	Survei online, Tokopedia Gift Card | 200.000	|
-| 21/05/20 |	Linkaja Syariah |	Kelas online eekonomi dan perbankan syariah |	50.000 |
+| 03/06/20 |	Yougov Indonesia |	Survei online Tokopedia Gift Card | 200.000	|
+| 21/05/20 |	Linkaja Syariah |	Kelas online ekonomi dan perbankan syariah |	50.000 |
 | 15/07/20 |	Raiz + Dana |	Voucher investasi di bulan ramadhan |	1.116.000	|
 | 17/04/20 |	Shopback |	Menang GiveAway Instagram pertama kali |	500.000 |	
 | 17/07/20 |	Jenius + OH.IRV |	Menang GiveAway, merchandise OH.IRV | |		
