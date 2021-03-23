@@ -74,4 +74,4 @@
 | 20/03/21 | Bibit + Gopay | Beli reksa dana 500.000 bayar via GoPay | 10.000 |
 | 22/03/21 | Raiz | Program member get member | 20.000 |
 
-TOTAL AMOUNT : IDR 5.867.646 as 22/03/21
+Total Amount : **IDR 5.867.646** as 22/03/2021
