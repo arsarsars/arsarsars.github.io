@@ -17,7 +17,7 @@
 | 21/08 |	GoPay + Bibit |	Voucher |	150.000|	
 | 22/08 |	Rakuten Insight Survey |	Survei |	50.000 |	
 | 28/08 |	Tanamduit + ShopeePay |	Cashback	| 7.500 |	
-| 06/09 |	Jenius Co.Create |	Kuis	| merchandise Jaka Rakhmat |	
+| 06/09 |	Jenius Co.Create |	Kuis	| merch Jaka Rakhmat |	
 | 18/09 |	Bibit + GoPay |	Cashback |	50.000	|
 | 19/09 |	Permata Bank |	Cashback |	25.000 |	
 | 25/09 |	Bibit + GoPay |	Cashback |	50.000 |	
