@@ -1,11 +1,11 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 20/06/20 |	Jenius + Shopee |	Review aplikasi |	800.000 |
+| 20/06/20 |	Jenius + Shopee |	Review |	800.000 |
 | 26/05/20 | Jenius Co.Create |	Kuis |	200.000 |
 | 03/06/20 |	Yougov Indonesia |	Survei | 200.000	|
 | 21/05/20 |	Linkaja Syariah |	Event online |	50.000 |
 | 15/07/20 |	Raiz + Dana |	Voucher |	1.116.000	|
-| 17/04/20 |	Shopback |	Menang GiveAway Instagram pertama kali |	500.000 |	
+| 17/04/20 |	Shopback |	GiveAway |	500.000 |	
 | 17/07/20 |	Jenius + OH.IRV |	GiveAway | merchandise OH.IRV |		
 | 31/07/20 |	Bibit + GoPay |	Cashback GoPay |	50.000	|
 | 04/08/20 |	digibank by DBS |	Cashback | 50.000 |	
