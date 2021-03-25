@@ -6,7 +6,7 @@
 | 21/05 |	Linkaja Syariah |	Event online |	50.000 |
 | 15/07 |	Raiz + Dana |	Voucher |	1.116.000	|
 | 17/04 |	Shopback |	GiveAway |	500.000 |	
-| 17/07 |	Jenius + OH.IRV |	GiveAway | merch OH.IRV |		
+| 17/07 |	Jenius + OH.IRV |	GiveAway | merch |		
 | 31/07 |	Bibit + GoPay |	Cashback GoPay |	50.000	|
 | 04/08 |	digibank by DBS |	Cashback | 50.000 |	
 | 10/08 |	Permata Bank |	Cashback |	20.000 |	
@@ -17,7 +17,7 @@
 | 21/08 |	GoPay + Bibit |	Voucher |	150.000|	
 | 22/08 |	Rakuten Insight Survey |	Survei |	50.000 |	
 | 28/08 |	Tanamduit + ShopeePay |	Cashback	| 7.500 |	
-| 06/09 |	Jenius Co.Create |	Kuis	| merch Jaka Rakhmat |	
+| 06/09 |	Jenius Co.Create |	Kuis	| merch |	
 | 18/09 |	Bibit + GoPay |	Cashback |	50.000	|
 | 19/09 |	Permata Bank |	Cashback |	25.000 |	
 | 25/09 |	Bibit + GoPay |	Cashback |	50.000 |	
@@ -63,7 +63,7 @@
 | 07/03 | Go-Jek | Bonus | 49.000 |
 | 09/03 | Jenius | Monyay | 6.500 |
 | 10/03 | Shopee + Kompas.id | Voucher | 45.000 |
-| 11/03 | Jenius Co.Create | Survei | Merch Jaka Rakhmat |
+| 11/03 | Jenius Co.Create | Survei | Merch |
 | 11/03 | Shopee | Cashback | 3.414 |
 | 11/03 | Dana + DBS | Cashback | 30.000 |
 | 12/03 | Dana + DBS | Cashback | 30.000 |
