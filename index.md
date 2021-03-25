@@ -75,5 +75,6 @@
 | 22/03 | Raiz | Referral | 20.000 |
 | 25/03 | Blibli + Pluang | Cashback | 45.211 |
 | 26/03 | Lazada + Pluang | Cashback | 8.400 |
+| 26/03 | Lazada + Pluang | Cashback | 7.500 |
 
 Total Amount : **IDR 5.867.646** as 22/03/2021 assuming merch not calculated.
