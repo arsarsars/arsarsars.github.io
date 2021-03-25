@@ -74,4 +74,4 @@
 | 20/03 | Bibit + Gopay | Cashback | 10.000 |
 | 22/03 | Raiz | Referral | 20.000 |
 
-Total Amount : **IDR 5.867.646** as 22/03/2021
+Total Amount : **IDR 5.867.646** as 22/03/2021 assuming merch not calculated.
