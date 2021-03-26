@@ -73,8 +73,7 @@
 | 19/03 | Rakuten Insight Surveys | Survei | 100.000 |
 | 20/03 | Bibit + Gopay | Cashback | 10.000 |
 | 22/03 | Raiz | Referral | 20.000 |
-| 25/03 | Blibli + Pluang | Cashback | 30.211 |
-| 26/03 | Lazada + Pluang | Cashback | 8.400 |
-| 26/03 | Lazada + Pluang | Cashback | 7.500 |
+| 25/03 | Blibli + Pluang | Cashback | 30.000 |
+| 26/03 | Lazada + Pluang | Cashback | 22.500 |
 
 Total amount estimated **IDR 5.867.646** as 22/03/2021 assuming merch not calculated.
