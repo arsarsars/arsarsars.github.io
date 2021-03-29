@@ -74,6 +74,7 @@
 | 20/03 | Bibit + Gopay | Cashback | 10.000 |
 | 22/03 | Raiz | Referral | 20.000 |
 | 25/03 | Blibli + Pluang | Cashback | 30.000 |
-| 26/03 | Lazada + Pluang | Cashback | 22.500 |
+| 26/03 | Lazada + Pluang | Voucher | 22.500 |
+| 28/03 | Blibli + Pluang | Cashback | 20.000 |
 
 Total amount estimated **IDR 5.867.646** as 22/03/2021 assuming merch not calculated.
