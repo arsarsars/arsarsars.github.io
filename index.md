@@ -76,5 +76,6 @@
 | 25/03 | Blibli + Pluang | Cashback | 30.000 |
 | 26/03 | Lazada + Pluang | Voucher | 22.500 |
 | 28/03 | Blibli + Pluang | Cashback | 20.000 |
+| 30/03 | DBS | Transfer SKN | 34.000 |
 
-Total amount estimated **IDR 5.867.646** as 22/03/2021 assuming merch not calculated.
+Total amount estimated **IDR 5.994.146** as 30/03/2021 assuming merch not calculated.
