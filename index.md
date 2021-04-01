@@ -79,5 +79,6 @@
 | 30/03 | DBS | Transfer | 34.000 |
 | 01/04 | Tanamduit + ShopeePay | Cashback | 5.000 |
 | 01/04 | Shopee | Cashback | 2.700 |
+| 01/04 | Tanamduit + GoPay | Cashback | 44.000 |
 
 Total amount estimated **IDR 5.994.146** as 30/03/2021 assuming merch not calculated.
