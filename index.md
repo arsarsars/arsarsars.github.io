@@ -76,7 +76,7 @@
 | 25/03 | Blibli + Pluang | Cashback | 30.000 |
 | 26/03 | Lazada + Pluang | Voucher | 22.500 |
 | 28/03 | Blibli + Pluang | Cashback | 20.000 |
-| 30/03 | DBS | Transfer SKN | 34.000 |
+| 30/03 | DBS | Transfer | 34.000 |
 | 01/04 | Tanamduit + ShopeePay | Cashback | 5.000 |
 | 01/04 | Shopee | Cashback | 2.700 |
 
