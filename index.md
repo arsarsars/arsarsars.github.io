@@ -80,4 +80,4 @@
 | 02/04 | Pluang + GoPay | Cashback | 33.000 |
 | 03/04 | Pluang + GoPay | Cashback | 13.000 |
 
-Total amount estimated **IDR 6.049.146** as 30/03/2021 assuming merch not calculated.
+Total amount estimated **IDR 6.049.146** as 03/04/2021 assuming merch not calculated.
