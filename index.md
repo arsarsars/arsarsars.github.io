@@ -79,5 +79,6 @@
 | 01/04 | Tanamduit + GoPay | Cashback | 44.000 |
 | 02/04 | Pluang + GoPay | Cashback | 33.000 |
 | 03/04 | Pluang + GoPay | Cashback | 13.000 |
+| 05/04 | Shopee | Cashback | 2.700 | 
 
 Total amount estimated **IDR 6.049.146** as 03/04/2021 assuming merch not calculated.
