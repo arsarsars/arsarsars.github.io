@@ -1,3 +1,10 @@
+This site is itended solely for its investors only Mr. & Mrs. Susanto. We are retail investors who are trying to make reasonable capital gain through our investment in equities, money market, or cryptocurrencies. Some of our current positions;
+
+1. Panin Dubai Syariah [PNBS.JK](https://finance.yahoo.com/quote/PNBS.JK/)
+2. Total Bangun Persada [TOTL.JK](https://finance.yahoo.com/quote/TOTL.JK/)
+3. Samudera Indonesia [SMDR.JK](https://finance.yahoo.com/quote/SMDR.JK/)
+4. Ethereum [ETH.USD](https://finance.yahoo.com/quote/ETH-USD/)
+
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
 | 20/06 |	Jenius + Shopee |	Review |	800.000 |
