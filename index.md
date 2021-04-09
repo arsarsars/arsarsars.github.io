@@ -1,1 +1,1 @@
-This site is itended solely for its owner only. Mr & Mrs Susanto are retail investors based on fundamental analysis. Our main purpose is reasonable capital gain through investments in capital and money markets. This site has no information with our investments. See our fun purpose only [/c file](https://arsarsars.github.io/c).
+Howdy, glad to see you here. See our fun cashback tracker [here](https://arsarsars.github.io/c). Thank you for visiting!
