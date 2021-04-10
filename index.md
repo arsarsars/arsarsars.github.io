@@ -21,4 +21,4 @@ Notes from Walter Schloss. March 10, 1994.
 
 ---
 
-Howdy, glad to see you come by! See our fun [cashback tracker here](https://arsarsars.github.io/c) 
+This site is itended solely for Mr. & Mrs. Susanto only. We are duo-pieces of investors in Indonesian capital and money markets aiming a fair reasonable gain from year to year. For the matters of having fun and make a very little amount of money from services we use, see our fun [cashback tracker here](https://arsarsars.github). Thanks for visit.
