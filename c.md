@@ -82,5 +82,6 @@
 | 05/04 | Shopee | Cashback | 2.700 | 
 | 11/04 | LinkAja | Cashback | 10.000 |
 | 14/04 | Jenius | Program | 13.000 |
+| 14/04 | DBS | Program | 100.000 |
 
 Total amount estimated **IDR 6.049.146** as 03/04/2021 assuming merch not calculated.
