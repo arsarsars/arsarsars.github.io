@@ -84,4 +84,4 @@
 | 14/04 | Jenius | Program | 13.000 |
 | 14/04 | DBS | Program | 100.000 |
 
-Total amount estimated **IDR 6.049.146** as 03/04/2021 assuming merch not calculated.
+Total amount estimated **IDR 6.174.846** as 14/04/2021 assuming merch not calculated.
