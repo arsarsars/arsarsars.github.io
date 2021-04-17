@@ -83,6 +83,8 @@
 | 11/04 | LinkAja | Cashback | 10.000 |
 | 14/04 | Jenius | Program | 13.000 |
 | 14/04 | DBS | Program | 100.000 |
+| 15/04 | Shopee | Cashback | 3.000 |
+| 17/04 | Pluang + GoPay | Cashback | 20.000 |
 
 Total amount estimated **IDR 6.174.846** as 14/04/2021 assuming merch not calculated.
 
