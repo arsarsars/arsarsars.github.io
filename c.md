@@ -87,7 +87,8 @@
 | 17/04 | Pluang + GoPay | Cashback | 20.000 |
 | 18/04 | Shopee | Cashback | 4.000 |
 | 21/04 | Moinves | Program | 25.000 |
+| 21/04 | Raiz | Program | 50.000 |
 
-Total amount estimated **IDR 6.226.846** as 21/04/2021 assuming merch not calculated.
+Total amount estimated **IDR 6.276.846** as 21/04/2021 assuming merch not calculated.
 
 [Back to homepage](/)
