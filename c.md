@@ -88,6 +88,6 @@
 | 18/04 | Shopee | Cashback | 4.000 |
 | 21/04 | Moinves | Program | 25.000 |
 
-Total amount estimated **IDR 6.174.846** as 14/04/2021 assuming merch not calculated.
+Total amount estimated **IDR 6.226.846** as 21/04/2021 assuming merch not calculated.
 
 [Back to homepage](/)
