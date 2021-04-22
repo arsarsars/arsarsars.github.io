@@ -88,6 +88,7 @@
 | 18/04 | Shopee | Cashback | 4.000 |
 | 21/04 | Moinves | Program | 25.000 |
 | 21/04 | Raiz | Program | 50.000 |
+| 22/04 | DBS | TRF | 5.000 |
 
 Total amount estimated **IDR 6.276.846** as 21/04/2021 assuming merch not calculated.
 
