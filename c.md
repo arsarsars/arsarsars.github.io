@@ -91,6 +91,8 @@
 | 22/04 | DBS | TRF | 5.000 |
 | 22/04 | Blibli | Cashback | 3.000 |
 | 22/04 | Shopee + Kompas.id | Voucher | 45.000 |
+| 23/04 | BukaReksa | Program | 10.000 |
+| 23/04 | DBS | TRF | 10.000 |
 
 Total amount estimated **IDR 6.276.846** as 21/04/2021 assuming merch not calculated.
 
