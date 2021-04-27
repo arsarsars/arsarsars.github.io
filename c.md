@@ -97,6 +97,6 @@
 | 27/04 | Pluang + GoPay | Cashback | 99.000 |
 | 27/04 | DBS | TRF | 5.000 |
 
-Total amount estimated **IDR 6.276.846** as 21/04/2021 assuming merch not calculated.
+Total amount estimated **IDR 6.455.846** as 27/04/2021 assuming merch not calculated.
 
 [Back to homepage](/)
