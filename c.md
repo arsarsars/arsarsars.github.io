@@ -93,6 +93,8 @@
 | 22/04 | Shopee + Kompas.id | Voucher | 45.000 |
 | 23/04 | BukaReksa | Program | 10.000 |
 | 23/04 | DBS | TRF | 10.000 |
+| 25/04 | Shopee | Cashback | 2.000 |
+| 27/04 | Pluang + GoPay | Cashback | 99.000 |
 
 Total amount estimated **IDR 6.276.846** as 21/04/2021 assuming merch not calculated.
 
