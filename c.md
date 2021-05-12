@@ -100,6 +100,8 @@
 | 29/04 | Blibli | Cashback | 10.000 |
 | 30/04 | Rakuten Insight Surveys | Survey | 75.000 |
 | 08/05 | Dana + Pluang | Cashback | 10.000 |
+| 12/05 | Shopee | Cashback | 30.000 |
+| 12/05 | LinkAja | Program | 5.000 |
 
 
 Total amount estimated **IDR 6.455.846** as 27/04/2021 assuming merch not calculated.
