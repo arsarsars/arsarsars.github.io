@@ -105,6 +105,7 @@
 | 21/05 | Shopee | Cashback | 5.000 |
 | 03/06 | Shopee + Tanamduit | Cashback | 5.000 |
 | 03/06 | DBS | TRF | 5.000 |
+| 04/06 | Pluang + GoPay | Cashback | 20.000 |
 
 
 Total amount estimated **IDR 6.455.846** as 27/04/2021 assuming merch not calculated.
