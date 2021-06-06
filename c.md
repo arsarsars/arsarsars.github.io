@@ -107,6 +107,7 @@
 | 03/06 | DBS | TRF | 5.000 |
 | 04/06 | Pluang + GoPay | Cashback | 20.000 |
 | 04/06 | Shopee + Kompas.id | Program | 45.000 |
+| 06/06 | Pluang + GoPay | Program | 66.000 |
 
 
 Total amount estimated **IDR 6.674.846** as 04/06/2021 assuming merch not calculated.
