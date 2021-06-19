@@ -110,7 +110,7 @@
 | 06/06 | Pluang + GoPay | Program | 66.000 |
 | 14/06 | Bibit + GoPay | Program | 50.000 |
 | 14/06 | Bibit + GoPay | Program | 40.000 |
-
+| 19/06 | Kompas.id | Survey | 75.000 |
 
 Total amount estimated **IDR 6.674.846** as 04/06/2021 assuming merch not calculated.
 
