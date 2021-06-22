@@ -112,6 +112,7 @@
 | 14/06 | Bibit + GoPay | Program | 40.000 |
 | 18/06 | Pluang + LinkAja | Cashback | 5.000 |
 | 19/06 | Kompas.id | Survey | 75.000 |
+| 20/06 | Rakuten Insight Surveys | Survey | 175.000 |
 
 Total amount estimated **IDR 6.674.846** as 04/06/2021 assuming merch not calculated.
 
