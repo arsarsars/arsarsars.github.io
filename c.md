@@ -115,6 +115,7 @@
 | 20/06 | Rakuten Insight Surveys | Survey | 175.000 |
 | 25/06 | Kompas.id + Smartfren | Voucher | 50.000 |
 | 25/06 | Shopee | Cashback | 3.000 |
+| 27/06 | GoPay + Pluang | Cashback | 20.000 |
 
 Total amount estimated **IDR 6.674.846** as 04/06/2021 assuming merch not calculated.
 
