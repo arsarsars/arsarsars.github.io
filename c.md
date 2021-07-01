@@ -117,6 +117,8 @@
 | 25/06 | Shopee | Cashback | 3.000 |
 | 27/06 | GoPay + Pluang | Cashback | 20.000 |
 | 29/06 | GoPay + Pluang | Cashback | 40.000 |
+| 30/06 | Kompas.id | Survey | Merch |
+| 01/07 | Shopee | Cashback | 4.000 |
 
 Total amount estimated **IDR 6.674.846** as 04/06/2021 assuming merch not calculated.
 
