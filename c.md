@@ -121,6 +121,7 @@
 | 01/07 | Shopee | Cashback | 4.000 |
 | 03/07 | Shopee + Tanamduit | Cashback | 5.000 |
 | 04/07 | Bibit + LinkAja | Cashback | 15.000 |
+| 06/07 | Dana | Program | 12.000 |
 
 Total amount estimated **IDR 7.202.846** as 01/07/2021 assuming merch not calculated.
 
