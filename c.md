@@ -123,6 +123,8 @@
 | 04/07 | Bibit + LinkAja | Cashback | 15.000 |
 | 06/07 | Dana | Program | 12.000 |
 | 09/07 | Pluang + GoPay | Program | 77.000 |
+| 20/07 | Rakuten Insight Surveys | Survey | 100.000 |
+| 23/07 | Tokopedia | Cashback | 13.000 |
 
 Total amount estimated **IDR 7.202.846** as 01/07/2021 assuming merch not calculated.
 
