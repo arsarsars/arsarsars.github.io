@@ -130,6 +130,7 @@
 | 30/07 | Bibit + Jago | Program | 50.000 |
 | 01/08 | Tanamduit + ShopeePay | Cashback | 5.000 |
 | 01/08 | OVO | Cashback | 5.000 |
+| 01/08 | Smartfren | Program | 9.000 |
 
 Total amount estimated **IDR 7.202.846** as 01/07/2021 assuming merch not calculated.
 
