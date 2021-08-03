@@ -133,6 +133,7 @@
 | 01/08 | Smartfren | Program | 9.000 |
 | 02/08 | OVO | Cashback | 5.000 |
 | 02/08 | Smartfren | Program | 2.500 |
+| 03/08 | Jago | Program | 20.000 |
 
 Total amount estimated **IDR 7.202.846** as 01/07/2021 assuming merch not calculated.
 
