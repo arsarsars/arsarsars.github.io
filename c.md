@@ -135,7 +135,8 @@
 | 02/08 | Smartfren | Program | 2.500 |
 | 03/08 | Jago | Program | 20.000 |
 | 07/08 | Tokopedia | TRF | 1.500 |
+| 09/08 | Tokopedia | Cashback | 4.000 |
 
-Total amount estimated **IDR 7.202.846** as 01/07/2021 assuming merch not calculated.
+Total amount estimated **IDR 7.601.846** as 09/08/2021 assuming merch not calculated.
 
 [Back to homepage](/)
