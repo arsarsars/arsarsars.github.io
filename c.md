@@ -51,7 +51,7 @@
 | 10/02 |	Danareksa + Shopee |	Cashback |	7.500 |	
 | 11/02 |	Bibit + Gopay |	Voucher| 170.000	|
 | 11/02 |	Shopee + Kompas.id |	Voucher |	45.000	|
-| 13/02 | DBS | Jasa | 5.000 | |
+| 13/02 | DBS | Jasa | 5.000 |
 | 20/02 | Rakuten Insight Surveys | Survei | 75.000 |
 | 21/02 | Tanamduit + ShopeePay | Cashback | 17.000 | 
 | 24/02 | Tokopedia + Jenius | Program | 20.000 |
