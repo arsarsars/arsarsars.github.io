@@ -137,6 +137,7 @@
 | 07/08 | Tokopedia | TRF | 1.500 |
 | 09/08 | Tokopedia | Cashback | 4.000 |
 | 10/08 | Smartfren | Program | 10.000 |
+| 11/08 | LinkAja | Cashback | 5.000 |
 
 Total amount estimated **IDR 7.601.846** as 09/08/2021 assuming merch not calculated.
 
