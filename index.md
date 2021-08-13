@@ -1,6 +1,8 @@
 
 
 
+
+
 "Al barokah fil harokah. Rejeki itu datangnya dari pergerakan."
 
 ---
