@@ -140,6 +140,7 @@
 | 11/08 | LinkAja | Cashback | 5.000 |
 | 13/08 | Shopee | Cashback | 2.500 |
 | 15/08 | Smartfren | Program | 5.000 |
+| 28/08 | Shopee + Smartfren | Cashback | 8.000 |
 
 Total amount estimated **IDR 7.601.846** as 09/08/2021 assuming merch not calculated.
 
