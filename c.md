@@ -144,6 +144,7 @@
 | 05/09 | Kompas.id + Smartfren | Program | 50.000 |
 | 05/09 | Smartfren | Program | 15.000 |
 | 10/09 | DBS | Jasa | 5.000 |
+| 13/09 | Tokopedia + OVO | Cashback | 3.000 |
 
 Total amount estimated **IDR 7.601.846** as 09/08/2021 assuming merch not calculated.
 
