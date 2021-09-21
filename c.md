@@ -146,6 +146,7 @@
 | 10/09 | DBS | Jasa | 5.000 |
 | 13/09 | Tokopedia + OVO | Cashback | 3.000 |
 | 15/09 | NH Korindo | Program | 100.000 |
+| 21/09 | Rakuten Insight Surveys | Survey | 50.000 |
 
 Total amount estimated **IDR 7.601.846** as 09/08/2021 assuming merch not calculated.
 
