@@ -147,6 +147,8 @@
 | 13/09 | Tokopedia + OVO | Cashback | 3.000 |
 | 15/09 | NH Korindo | Program | 100.000 |
 | 21/09 | Rakuten Insight Surveys | Survey | 50.000 |
+| 26/09 | Multi Bintang Indonesia | Program | Merch |
+| 26/09 | Tokopedia | Cashback | 5.500 |
 
 Total amount estimated **IDR 7.601.846** as 09/08/2021 assuming merch not calculated.
 
