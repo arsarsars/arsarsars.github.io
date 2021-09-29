@@ -150,6 +150,6 @@
 | 26/09 | Multi Bintang Indonesia | Program | Merch |
 | 26/09 | Tokopedia | Cashback | 5.500 |
 
-Total amount estimated **IDR 7.601.846** as 09/08/2021 assuming merch not calculated.
+Total amount estimated **IDR 7.860.846** as 26/09/2021 assuming merch not calculated.
 
 [Back to homepage](/)
