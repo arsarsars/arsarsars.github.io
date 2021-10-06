@@ -149,6 +149,9 @@
 | 21/09 | Rakuten Insight Surveys | Survey | 50.000 |
 | 26/09 | Multi Bintang Indonesia | Program | Merch |
 | 26/09 | Tokopedia | Cashback | 5.500 |
+| 30/09 | Multi Bintang Indonesia | Program | Merch |
+| 02/09 | Shopee | Cashback | 7.000 |
+| 04/09 | Smartfren | Program | 10.000 |
 
 Total amount estimated **IDR 7.860.846** as 26/09/2021 assuming merch not calculated.
 
