@@ -153,6 +153,8 @@
 | 02/09 | Shopee | Cashback | 7.000 |
 | 04/09 | Smartfren | Program | 10.000 |
 | 11/10 | Shopee | Cashback | 19.000 |
+| 16/10 | Telkomsel + Kompas.id | Program | 50.000 |
+| 16/10 | Telkomsel + Cakap | Program | Merch |
 
 Total amount estimated **IDR 7.896.846** as 11/10/2021 assuming merch not calculated.
 
