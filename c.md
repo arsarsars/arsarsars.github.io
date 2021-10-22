@@ -157,7 +157,8 @@
 | 16/10 | Telkomsel + Cakap | Program | Merch |
 | 20/10 | KPP Pratama | Program | Merch |
 | 21/10 | OVO + Tokopedia | Cashback | 3.300 |
-| 21/10 | Tokopedia + GoPayLater | 8.600 |
+| 21/10 | Tokopedia + GoPayLater | Cashback | 8.600 |
+| 22/10 | Dana | Voucher | 9.000 |
 
 Total amount estimated **IDR 7.896.846** as 11/10/2021 assuming merch not calculated.
 
