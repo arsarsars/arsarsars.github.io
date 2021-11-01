@@ -161,6 +161,7 @@
 | 22/10 | Dana | Voucher | 9.000 |
 | 22/10 | Dana + Tokopedia | Voucher | 9.000 |
 | 31/10 | GoPay + Tokopedia | Cashback | 5.000 |
+| 01/11 | Shopee + Tanamduit | Cashback | 5.000 |
 
 Total amount estimated **IDR 7.896.846** as 11/10/2021 assuming merch not calculated.
 
