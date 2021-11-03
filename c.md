@@ -163,6 +163,6 @@
 | 31/10 | GoPay + Tokopedia | Cashback | 5.000 |
 | 01/11 | Shopee + Tanamduit | Cashback | 5.000 |
 
-Total amount estimated **IDR 7.896.846** as 11/10/2021 assuming merch not calculated.
+Total amount estimated **IDR 7.986.746** as 03/11/2021 assuming merch not calculated.
 
 [Back to homepage](/)
