@@ -154,7 +154,7 @@
 | 10/08 |	Blibli |	Cashback |	116.000 |
 | 10/08 |	Permata Bank |	Cashback |	20.000 |	
 | 04/08 |	digibank by DBS |	Cashback | 50.000 |	
-| 31/07 |	Bibit + GoPay |	Cashback GoPay |	50.000	|
+| 31/07 |	Bibit + GoPay |	Cashback |	50.000	|
 | 17/07 |	Jenius + OH.IRV |	GiveAway | merch |
 | 17/04 |	Shopback |	GiveAway |	500.000 |
 | 15/07 |	Raiz + Dana |	Voucher |	1.116.000	|
@@ -164,6 +164,6 @@
 | 20/06 |	Jenius + Shopee |	Review |	800.000 |													
 
 
-Total amount estimated **IDR 7.986.746** as 03/11/2021 assuming merch not calculated. Newest at the top. "It's the little things that count". Small fortune has been donated through Kitabisa. We share much as we can.
+Total amount estimated **IDR 7.986.746** as 03/11/2021 assuming merch not calculated. Newest at the top. "It's the little things that count". A portions from this fortune has been donated through Kitabisa. We share much as we can.
 
 [Back to homepage](/)
