@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 05/11 | Youtube Premium Family | Promotion | 89.000 |
 | 01/11 | Shopee + Tanamduit | Cashback | 5.000 |
 | 31/10 | GoPay + Tokopedia | Cashback | 5.000 |
 | 22/10 | Dana + Tokopedia | Voucher | 9.000 |
