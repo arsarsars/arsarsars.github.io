@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 17/11 | Smartfren | Program | Merch |
+| 17/11 | Smartfren | Program | Merch |
 | 09/11 | Tokopedia + GoPay | Cashback | 5.500 |
 | 05/11 | Youtube Premium Family | Promotion | 89.000 |
 | 01/11 | Shopee + Tanamduit | Cashback | 5.000 |
