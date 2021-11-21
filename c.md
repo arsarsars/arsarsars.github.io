@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 21/11 | Tokopedia + GoPay | Cashback | 15.000 |
 | 20/11 | Rakuten insight | Survey | 75.000 |
 | 17/11 | Smartfren | Program | Merch |
 | 17/11 | Smartfren | Program | Merch |
