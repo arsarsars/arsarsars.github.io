@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 26/11 | Smartfren + Omega Legends | 100.000 |
+| 26/11 | Smartfren + Genflix | Voucher | 50.000 |
+| 26/11 | Smartfren + Sushiroll | Voucher | 49.000 |
 | 21/11 | Smartfren + Kompas.id | Voucher | 50.000 |
 | 21/11 | Smartfren | Cashback | 10.000 |
 | 21/11 | Tokopedia + GoPay | Cashback | 15.000 |
