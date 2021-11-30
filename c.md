@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 30/11 | KoinWorks + Cakap | Program | 350.000 |
 | 27/11 | Smartfren | Cashback | 10.000 |
 | 26/11 | Smartfren + Omega Legends | Voucher | 100.000 |
 | 26/11 | Smartfren + Genflix | Voucher | 50.000 |
