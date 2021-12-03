@@ -1,7 +1,9 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 03/12 | Dana + Ultravoucher | Discount | 15.000 |
+| 03/12 | Tokopedia + GoPay | Cashback | 15.000 |
 | 01/12 | Tanamduit + Shopee | Cashback | 5.000 |
-| 30/11 | KoinWorks + Cakap | Program | 350.000 |
+| 30/11 | KoinWorks + Cakap | Program | merch |
 | 27/11 | Smartfren | Cashback | 10.000 |
 | 26/11 | Smartfren + Omega Legends | Voucher | 100.000 |
 | 26/11 | Smartfren + Genflix | Voucher | 50.000 |
