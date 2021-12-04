@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 04/12 | Dana + Ultravoucher | Discount | 7.500 |
 | 03/12 | Dana + Ultravoucher | Discount | 15.000 |
 | 03/12 | Tokopedia + GoPay | Cashback | 15.000 |
 | 01/12 | Tanamduit + Shopee | Cashback | 5.000 |
