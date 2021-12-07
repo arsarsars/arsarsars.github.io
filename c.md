@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 07/12 | Telkomsel | Program | 3GB Internet |
+| 07/12 | Dana | Discount | 10.000 |
 | 04/12 | Dana + Ultravoucher | Discount | 7.500 |
 | 03/12 | Dana + Ultravoucher | Discount | 15.000 |
 | 03/12 | Tokopedia + GoPay | Cashback | 15.000 |
