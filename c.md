@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 15/12 | Smartfren | Program | Merch Tupperware |
+| 15/12 | Smartfren | Program | Merch Tupperware |
 | 07/12 | Telkomsel | Program | 3GB Internet |
 | 07/12 | Dana | Discount | 10.000 |
 | 04/12 | Dana + Ultravoucher | Discount | 7.500 |
