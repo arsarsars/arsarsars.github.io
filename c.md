@@ -1,8 +1,9 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 15/12 | Smartfren | Program | Merch Tupperware |
-| 15/12 | Smartfren | Program | Merch Tupperware |
-| 07/12 | Telkomsel | Program | 3GB Internet |
+| 15/12 | Shopee | Cashback | 19.000 |
+| 15/12 | Smartfren | Program | Merch |
+| 15/12 | Smartfren | Program | Merch |
+| 07/12 | Telkomsel | Program | 3GB |
 | 07/12 | Dana | Discount | 10.000 |
 | 04/12 | Dana + Ultravoucher | Discount | 7.500 |
 | 03/12 | Dana + Ultravoucher | Discount | 15.000 |
