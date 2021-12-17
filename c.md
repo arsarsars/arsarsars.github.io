@@ -1,6 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 17/12 | Shopee | Cashback | 8.000 |
+| 17/12 | Bibit + ShopeePay | Cashback | 5.000 |
+| 17/12 | Shopee | Cashback | 13.000 |
 | 16/12 | GoPayLater | Cashback | 2.500 |
 | 15/12 | Kumparan+ | Voucher | 19.000 |
 | 15/12 | Shopee | Cashback | 19.000 |
