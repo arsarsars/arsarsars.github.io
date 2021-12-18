@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 18/12 | Shopee | Cashback | 5.000 |
 | 18/12 | GetPlus + Tokopedia | Voucher | 15.000 |
 | 17/12 | Bibit + ShopeePay | Cashback | 5.000 |
 | 17/12 | Shopee | Cashback | 13.000 |
