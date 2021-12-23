@@ -1,9 +1,10 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 23/12 | Pluang + BDS | Program | 25.000 |
 | 23/12 | Dana | Cashback | 3.000 |
 | 23/12 | Dana + Ultravoucher | Cashback | 12.750 |
-| 23/12 | Tanamduit + Batavia DS | Program | 25.000 |
-| 23/12 | Tanamduit + Danareksa | Program | 10.000 |
+| 22/12 | Tanamduit + BDS | Program | 25.000 |
+| 22/12 | Tanamduit + Danareksa | Program | 10.000 |
 | 21/12 | Pluang + GoPay | Program | 25.000 |
 | 20/12 | Jenius + Vidio | Event | Voucher |
 | 20/12 | Rakuten | Survey | 25.000 |
