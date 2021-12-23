@@ -1,6 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 20/12 | Jenius + Vidio | Event | 8 Voucher |
+| 21/12 | Pluang + GoPay | Program | 25.000 |
+| 20/12 | Jenius + Vidio | Event | Voucher |
 | 20/12 | Rakuten | Survey | 25.000 |
 | 18/12 | Shopee | Cashback | 5.000 |
 | 18/12 | GetPlus + Tokopedia | Voucher | 15.000 |
