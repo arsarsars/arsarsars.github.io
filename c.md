@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 25/12 | Smartfren + ShopeePay | Cashback | 5.000 |
+| 25/12 | Shopee | Cashback | 4.000 |
 | 23/12 | Pluang + BDS | Program | 25.000 |
 | 23/12 | Dana | Cashback | 3.000 |
 | 23/12 | Dana + Ultravoucher | Cashback | 12.750 |
