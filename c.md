@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 29/12 | Paypal | Service | 10.000 |
 | 26/12 | IM3 Ooredoo + ShopeePay | Cashback | 5.000 |
 | 26/12 | Dana | Program | 5.000 |
 | 25/12 | Smartfren + ShopeePay | Cashback | 5.000 |
