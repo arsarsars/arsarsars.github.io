@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 03/01 | Tanamduit + ShopeePay | Cashback | 10.000 |
+| 03/01 | by.U + ShopeePay | Cashback | 5.000 |
+| 31/12 | SeaBank | Service | 10.000 |
 | 29/12 | Paypal | Service | 10.000 |
 | 26/12 | IM3 Ooredoo + ShopeePay | Cashback | 5.000 |
 | 26/12 | Dana | Program | 5.000 |
