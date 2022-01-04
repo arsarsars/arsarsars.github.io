@@ -1,6 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 03/01 | Tanamduit + ShopeePay | Cashback | 10.000 |
+| 03/01 | Tanamduit + ShopeePay | Cashback | 5.000 |
 | 03/01 | by.U + ShopeePay | Cashback | 5.000 |
 | 31/12 | SeaBank | Service | 10.000 |
 | 29/12 | Paypal | Service | 10.000 |
