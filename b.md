@@ -1,0 +1,1 @@
+Alhamdulillah. Buat yang Maha terimakasih. Untuk perjalanan sampai sekarang ini. Jalan masih panjang tentu saja. Masih banyak kebahagaiaan berbagai jenis yang belum diicipi -- masih banyak masalah dan cobaan yang akan meninggikan derajat. Hehehe. Alhamdulillah. I love you, Cantik.
