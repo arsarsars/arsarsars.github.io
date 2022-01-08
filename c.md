@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 08/01 | Bitdefender + ShopeePay | Cashback | 5.000 |
 | 08/01 | Jenius Co.Create | Program | Merch |
 | 07/01 | Shopee | Cashback | 20.000 |
 | 06/01 | Bibit + ShopeePay | Cashback | 5.000 |
