@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 16/01 | Bank Neo Commerce | Program | 25.000 |
+| 14/01 | Blibli + XL Prioritas | Program | 10.000 |
+| 12/01 | Shopee | Cashback | 3.000 |
 | 08/01 | Bitdefender + ShopeePay | Cashback | 5.000 |
 | 08/01 | Jenius Co.Create | Program | Merch |
 | 07/01 | Shopee | Cashback | 20.000 |
