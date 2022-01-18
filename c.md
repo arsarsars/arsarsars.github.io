@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 18/01 | Bank Neo Commerce | Experience Program | 9.000 |
+| 18/01 | Bank Neo Commerce | Program | 10.000 |
+| 18/01 | OVO + XL Prioritas | Cashback | 5.000 |
 | 16/01 | Bank Neo Commerce | Program | 25.000 |
 | 14/01 | Blibli + XL Prioritas | Program | 10.000 |
 | 12/01 | Shopee | Cashback | 3.000 |
