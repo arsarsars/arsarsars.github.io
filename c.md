@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 22/01 | Shopee + Smartfren |  Cashback | 4.000 |
+| 22/01 | Smartfren + HotelMurah.com | Program | 10.000 |
+| 20/01 | Rakuten Insight | Survey | 125.000 |
 | 18/01 | Bank Neo Commerce | Experience Program | 9.000 |
 | 18/01 | Bank Neo Commerce | Program | 10.000 |
 | 18/01 | OVO + XL Prioritas | Cashback | 5.000 |
