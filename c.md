@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 28/01 | Bank Neo Commerce | Program | 5.000 |
 | 28/01 | Bank Neo Commerce | Program | 10.000 |
 | 25/01 | Smartfren + Cakap | Program | Course |
 | 25/01 | Smartfren + Cakap | Program | Course |
