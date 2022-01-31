@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 31/01 | Bank Neo Commerce | Program | 3.000 |
 | 30/01 | Gigs | Refereeing | 30.000 |
 | 28/01 | Bank Neo Commerce | Program | 5.000 |
 | 28/01 | Bank Neo Commerce | Program | 10.000 |
