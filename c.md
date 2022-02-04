@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 04/02 | Bank Jago | Program | 13.000 |
+| 03/02 | ShopeePay + by.U | Cashback | 4.500 |
 | 31/01 | Bank Neo Commerce | Program | 3.000 |
 | 30/01 | Gigs | Refereeing | 30.000 |
 | 28/01 | Bank Neo Commerce | Program | 5.000 |
