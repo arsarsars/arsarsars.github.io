@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 14/02 | Gigs | Decoration | 70.000 |
 | 04/02 | Bank Jago | Program | 13.000 |
 | 03/02 | ShopeePay + by.U | Cashback | 4.500 |
 | 31/01 | Bank Neo Commerce | Program | 3.000 |
