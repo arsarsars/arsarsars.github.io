@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 09/03 | Tokopedia + XL Prioritas | Cashback | 5.000 |
+| 06/03 | Shopee | Cashback | 7.000 |
+| 04/03 | Tokopedia + Geoff | Cashback | 15.000 |
 | 22/02 | by.U | Coin | 1GB |
 | 20/02 | Rakuten | Survey | 50.000 |
 | 14/02 | Gigs | Decoration | 70.000 |
