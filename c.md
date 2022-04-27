@@ -1,5 +1,11 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 27/04 | Telkomsel + Disney Hotstar | Poin | 1 Month |
+| 27/04 | Telkomsel + kumparanplus| Poin | 3 Month |
+| 20/04 | Rakuten | Survey | 25.000 |
+| 16/04 | Bareksa | Service | 10.000 |
+| 15/04 | Blibli + BCA | TRF | 20.000 |
+| 12/04 | Shopee | Cashback | 20.000 |
 | 09/03 | Tokopedia + XL Prioritas | Cashback | 5.000 |
 | 06/03 | Shopee | Cashback | 7.000 |
 | 04/03 | Tokopedia + Geoff | Cashback | 15.000 |
