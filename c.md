@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 14/05 | Sinoman | Ulem | 50.000 |
+| 13/05 | Tokopedia + BCA | Cashback | 4.000 |
 | 27/04 | Telkomsel + Disney Hotstar | Poin | 1 Month |
 | 27/04 | Telkomsel + kumparanplus| Poin | 3 Month |
 | 20/04 | Rakuten | Survey | 25.000 |
