@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 30/05 | Campus | Research Fee | 100.000 |
 | 14/05 | Sinoman | Ulem | 50.000 |
 | 13/05 | Tokopedia + BCA | Cashback | 4.000 |
 | 27/04 | Telkomsel + Disney Hotstar | Poin | 1 Month |
