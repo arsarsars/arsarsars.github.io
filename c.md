@@ -247,6 +247,6 @@
 | 20/06 |	Jenius + Shopee |	Review |	800.000 |													
 
 
-Total amount estimated **IDR 8.621.246** as 21/12/2021 assuming merch not calculated. Newest at the top. "It's the little things that count". A portions from this fortune has been donated through Kitabisa. We share much as we can.
+Total amount estimated **IDR 9.454.496** as 30/05/22 assuming merch not calculated. Newest at the top. "It's the little things that count".
 
 [Back to homepage](/)
