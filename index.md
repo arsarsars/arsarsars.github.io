@@ -1,4 +1,4 @@
-
+**Air yang diam akan kehilangan kejernihannya dan dalam suhu rendah dia akan beku. Demikian juga dengan ketidakaktifan – akan melemahkan pikiran.**
 
 
 
