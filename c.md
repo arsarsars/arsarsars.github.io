@@ -4,7 +4,7 @@
 | 14/05 | Sinoman | Ulem | 50.000 |
 | 13/05 | Tokopedia + BCA | Cashback | 4.000 |
 | 27/04 | Telkomsel + Disney Hotstar | Poin | 1 Month |
-| 27/04 | Telkomsel + kumparanplus| Poin | 3 Month |
+| 27/04 | Telkomsel + Kumparan Plus| Poin | 3 Month |
 | 20/04 | Rakuten | Survey | 25.000 |
 | 16/04 | Bareksa | Service | 10.000 |
 | 15/04 | Blibli + BCA | TRF | 20.000 |
@@ -182,7 +182,7 @@
 | 12/03 | Dana + DBS | Cashback | 30.000 |
 | 11/03 | Dana + DBS | Cashback | 30.000 |
 | 11/03 | Shopee | Cashback | 3.414 |
-| 11/03 | Jenius Co.Create | Survei | Merch |
+| 11/03 | Jenius Co.Create | Survey | Merch |
 | 10/03 | Shopee + Kompas.id | Voucher | 45.000 |
 | 09/03 | Jenius | Monyay | 6.500 |
 | 07/03 | Go-Jek | Bonus | 49.000 |
@@ -192,7 +192,7 @@
 | 27/02 | DBS | Jasa | 20.000 |
 | 24/02 | Tokopedia + Jenius | Program | 20.000 |
 | 21/02 | Tanamduit + ShopeePay | Cashback | 17.000 |
-| 20/02 | Rakuten Insight Surveys | Survei | 75.000 |
+| 20/02 | Rakuten Insight Surveys | Survey | 75.000 |
 | 13/02 | DBS | Jasa | 5.000 |
 | 11/02 |	Shopee + Kompas.id |	Voucher |	45.000	|
 | 11/02 |	Bibit + Gopay |	Voucher| 170.000	|
@@ -215,7 +215,7 @@
 | 09/11 |	Bibit + Gopay |	Cashback |	110.000 |		
 | 05/11 |	Moinves + LinkAja |	Cashback |	5.000	|
 | 02/11 |	Bibit + LinkAja |	Cashback |	5.000 |	
-| 20/10 |	Rakuten Insight |	Survei |	50.000 |	
+| 20/10 |	Rakuten Insight |	Survey |	50.000 |	
 | 18/10 |	Blibli + GoPay + Ultravoucher |	Cashback |	15.000 |
 | 14/10 |	Blibli + GoPay + Ultravoucher |	Cashback |	20.000 |
 | 12/10 |	Bibit + Gopay	| Cashback |	100.000 |
@@ -238,7 +238,7 @@
 | 10/08 |	Permata Bank |	Cashback |	20.000 |	
 | 04/08 |	digibank by DBS |	Cashback | 50.000 |	
 | 31/07 |	Bibit + GoPay |	Cashback |	50.000	|
-| 17/07 |	Jenius + OH.IRV |	GiveAway | merch |
+| 17/07 |	Jenius + OH.IRV |	Give Away | merch |
 | 17/04 |	Shopback |	GiveAway |	500.000 |
 | 15/07 |	Raiz + Dana |	Voucher |	1.116.000	|
 | 21/05 |	Linkaja Syariah |	Event online |	50.000 |
@@ -247,6 +247,6 @@
 | 20/06 |	Jenius + Shopee |	Review |	800.000 |													
 
 
-Total amount estimated **IDR 9.454.496** as 30/05/22 assuming merch not calculated. Newest at the top. "It's the little things that count".
+Total terkumpul **IDR 9.454.496** update pada 30/05/22 merchandise dan lain-lain selain uang tidak dihitung. Terbaru diatas. Motto: 'Sedikit-sedikit lama-lama jadi bukit."
 
 [Back to homepage](/)
