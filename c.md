@@ -1,7 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 07/06 | Tokopedia + GoPay | Cashback | 15.000 |
-| 04/06 | Jenius Co.Create | Survey | 50.000 |
+| 09/07 | Tokopedia + SmartFren | Diskon | 10.000 |
+| 07/07 | Tokopedia + GoPay | Cashback | 15.000 |
+| 04/07 | Jenius Co.Create | Survey | 50.000 |
 | 20/06 | Rakuten Insight | Survey | 25.000 |
 | 30/05 | Campus | Research Fee | 100.000 |
 | 14/05 | Sinoman | Ulem | 50.000 |
