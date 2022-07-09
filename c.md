@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 09/07 | Blibli + Wardah | Cashback | 15.000 |
 | 09/07 | Tokopedia + SmartFren | Diskon | 10.000 |
 | 07/07 | Tokopedia + GoPay | Cashback | 15.000 |
 | 04/07 | Jenius Co.Create | Survey | 50.000 |
