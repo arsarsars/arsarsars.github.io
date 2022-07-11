@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 11/07 | Raiz + Dana | Discount | 6.000 |
 | 09/07 | Offline | Fee | 30.000 |
 | 09/07 | Blibli + Wardah | Cashback | 15.000 |
 | 09/07 | Tokopedia + SmartFren | Diskon | 10.000 |
@@ -254,6 +255,6 @@
 | 20/06 |	Jenius + Shopee |	Review |	800.000 |													
 
 
-Total terkumpul **IDR 9.454.496** update pada 30/05/22 tercatat di sini adalah perkiraan pendapatan dari side-gig online maupun offline selain bersumber dari gaji pokok. Merchandise dan lain-lain selain uang tidak dinominalkan. Terbaru diatas. Motto: 'Sedikit-sedikit lama-lama jadi bukit."
+Total terkumpul **IDR 10.205.496** update pada **11/07/22** tercatat di sini adalah perkiraan pendapatan dari side-gig online maupun offline selain bersumber dari gaji pokok. Merchandise dan lain-lain selain uang tidak dinominalkan. Terbaru diatas. Motto: 'Sedikit-sedikit lama-lama jadi bukit."
 
 [Back to homepage](/)
