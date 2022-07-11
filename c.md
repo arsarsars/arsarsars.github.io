@@ -1,13 +1,14 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 09/07 | Offline Store | Service | 30.000 |
+| 09/07 | Offline | Fee | 30.000 |
 | 09/07 | Blibli + Wardah | Cashback | 15.000 |
 | 09/07 | Tokopedia + SmartFren | Diskon | 10.000 |
 | 07/07 | Tokopedia + GoPay | Cashback | 15.000 |
 | 04/07 | Jenius Co.Create | Survey | 50.000 |
+| 01/07 | GOV. ID | Prakerja | 600.000 |
 | 20/06 | Rakuten Insight | Survey | 25.000 |
 | 30/05 | Campus | Research Fee | 100.000 |
-| 14/05 | Sinoman | Ulem | 50.000 |
+| 14/05 | Sinoman | Fee | 50.000 |
 | 13/05 | Tokopedia + BCA | Cashback | 4.000 |
 | 27/04 | Telkomsel + Disney Hotstar | Poin | 1 Month |
 | 27/04 | Telkomsel + Kumparan Plus| Poin | 3 Month |
@@ -253,6 +254,6 @@
 | 20/06 |	Jenius + Shopee |	Review |	800.000 |													
 
 
-Total terkumpul **IDR 9.454.496** update pada 30/05/22 merchandise dan lain-lain selain uang tidak dihitung. Terbaru diatas. Motto: 'Sedikit-sedikit lama-lama jadi bukit."
+Total terkumpul **IDR 9.454.496** update pada 30/05/22 tercatat di sini adalah perkiraan pendapatan dari side-gig online maupun offline selain bersumber dari gaji pokok. Merchandise dan lain-lain selain uang tidak dinominalkan. Terbaru diatas. Motto: 'Sedikit-sedikit lama-lama jadi bukit."
 
 [Back to homepage](/)
