@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 12/07 | Blibli | Cashback | 10.000 |
 | 12/07 | by.U | Coins | 2GB |
 | 11/07 | Raiz + Dana | Discount | 6.000 |
 | 09/07 | Offline | Fee | 30.000 |
