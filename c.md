@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 12/07 | by.U | Coins | 2GB |
 | 11/07 | Raiz + Dana | Discount | 6.000 |
 | 09/07 | Offline | Fee | 30.000 |
 | 09/07 | Blibli + Wardah | Cashback | 15.000 |
