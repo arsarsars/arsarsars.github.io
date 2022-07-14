@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 14/07 | Tokopedia + IM3 | Cashback | 1.800 |
 | 12/07 | Blibli | Cashback | 10.000 |
 | 12/07 | by.U | Coins | 2GB |
 | 11/07 | Raiz + Dana | Discount | 6.000 |
