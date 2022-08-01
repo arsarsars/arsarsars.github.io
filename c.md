@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 01/08 | GOV. ID | Prakerja | 600.000 |
+| 20/07 | Rakuten Insight | Survey | 20.000 |
 | 18/07 | Flip | Coin | 5.000 |
 | 14/07 | Tokopedia + IM3 | Cashback | 1.800 |
 | 12/07 | Blibli | Cashback | 10.000 |
