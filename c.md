@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 02/08 | GOV. ID | Prakerja | 50.000 |
 | 01/08 | GOV. ID | Prakerja | 600.000 |
 | 20/07 | Rakuten Insight | Survey | 20.000 |
 | 18/07 | Flip | Coin | 5.000 |
