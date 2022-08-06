@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 05/08 | Tokopedia + BCA | Discount | 7.000 |
+| 04/08 | Shopee | Cashback | 2.500 |
 | 02/08 | GOV. ID | Prakerja | 50.000 |
 | 01/08 | GOV. ID | Prakerja | 600.000 |
 | 20/07 | Rakuten Insight | Survey | 20.000 |
