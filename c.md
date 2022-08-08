@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 08/08 | Rumah Siap Kerja + Sandiaga Uno | Gift | Merch |
 | 05/08 | Tokopedia + BCA | Discount | 7.000 |
 | 04/08 | Shopee | Cashback | 2.500 |
 | 02/08 | GOV. ID | Prakerja | 50.000 |
