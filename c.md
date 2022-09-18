@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 15/09 | Telus International | Freelance | 1.738.000 |
 | 13/08 | Smartfren + Kompas.id | Voucher | 1 Month |
 | 11/08 | Tokopedia | Cashback | 1.500 |
 | 08/08 | Rumah Siap Kerja + Sandiaga Uno | Gift | Merch |
