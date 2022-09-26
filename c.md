@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 26/09 | Bibit + GoPay + Danareksa | Program | 60.500 |
 | 24/09 | Bibit + GoPay | Program | 25.000 |
 | 21/09 | Rakuten Insight | Survey | 25.000 |
 | 18/09 | Shopee | Cashback | 12.000 |
