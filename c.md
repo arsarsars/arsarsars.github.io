@@ -275,6 +275,6 @@
 | 20/06 |	Jenius + Shopee |	Review |	800.000 |													
 
 
-Total terkumpul **IDR 10.205.496** update pada **11/07/22** tercatat di sini adalah perkiraan pendapatan dari side-gig online maupun offline selain bersumber dari gaji pokok. Merchandise dan lain-lain selain uang tidak dinominalkan. Terbaru diatas. Motto: 'Sedikit-sedikit lama-lama jadi bukit."
+Total terkumpul **IDR 13.468.796** update pada **26/09/22** tercatat di sini adalah perkiraan pendapatan dari side-gig online maupun offline selain bersumber dari gaji pokok. Merchandise dan lain-lain selain uang tidak dinominalkan. Terbaru diatas. Motto: 'Sedikit-sedikit lama-lama jadi bukit."
 
 [Back to homepage](/)
