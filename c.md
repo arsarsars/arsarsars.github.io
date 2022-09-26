@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 24/09 | Bibit + GoPay | Program | 25.000 |
+| 21/09 | Rakuten Insight | Survey | 25.000 |
+| 18/09 | Shopee | Cashback | 12.000 |
 | 15/09 | Telus International | Freelance | 1.738.000 |
 | 13/08 | Smartfren + Kompas.id | Voucher | 1 Month |
 | 11/08 | Tokopedia | Cashback | 1.500 |
