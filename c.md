@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 01/11 | Dana + Ultravoucher | Program | 5.000 |
+| 22/10 | Samuel Aset Manajemen | Program | 100.000 |
 | 13/10 | Dana + Ultravoucher | Discount | 12.500 |
 | 26/09 | Bibit + GoPay + Danareksa | Program | 60.500 |
 | 24/09 | Bibit + GoPay | Program | 25.000 |
