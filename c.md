@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 12/11 | Bibit + GoPay | Cashback | 30.000 |
 | 01/11 | Dana + Ultravoucher | Program | 5.000 |
 | 22/10 | Samuel Aset Manajemen | Program | 100.000 |
 | 13/10 | Dana + Ultravoucher | Discount | 12.500 |
