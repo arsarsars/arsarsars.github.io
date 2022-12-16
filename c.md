@@ -1,5 +1,9 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 15/12 | Telus International | Freelance | 200.000 |
+| 12/12 | Blibli | Cashback | 25.000 |
+| 06/12 | Dana | Program | 7.500 |
+| 02/12 | by.U | 1 year anniv | 3GB |
 | 12/11 | Bibit + GoPay | Cashback | 30.000 |
 | 01/11 | Dana + Ultravoucher | Program | 5.000 |
 | 22/10 | Samuel Aset Manajemen | Program | 100.000 |
