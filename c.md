@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 20/12 | Rakuten Insight | Survey | 25.000 |
+| 18/12 | Shopee | Cashback | 4.000 |
 | 15/12 | Telus International | Freelance | 200.000 |
 | 12/12 | Blibli | Cashback | 25.000 |
 | 06/12 | Dana | Program | 7.500 |
