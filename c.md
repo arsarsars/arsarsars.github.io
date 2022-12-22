@@ -1,6 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 21/12 | Facebook Viewpoints | Ads rater | USD 3 |
+| 23/12 | Tokopedia + GoPay | Diskon | 3.200 |
+| 21/12 | Facebook Viewpoints | Ads rating | USD 3 |
 | 20/12 | Rakuten Insight | Survey | 25.000 |
 | 18/12 | Shopee | Cashback | 4.000 |
 | 15/12 | Telus International | Freelance | 200.000 |
