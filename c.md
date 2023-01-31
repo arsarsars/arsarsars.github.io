@@ -1,5 +1,9 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 31/01 | Flip | Program | 5.000 |
+| 20/01 | Rakuten Insight | Survey | 25.000 |
+| 18/01 | Google | Playbook Credit | 50.000 |
+| 10/01 | Shopee | Cashback | 9.000 |
 | 23/12 | Tokopedia + GoPay | Diskon | 3.200 |
 | 21/12 | Facebook Viewpoints | Ads rating | USD 3 |
 | 20/12 | Danareksa | Survey | 50.000 |
