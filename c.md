@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 3/02 | Tokopedia | Discount | 4.500 |
 | 31/01 | Flip | Program | 5.000 |
 | 20/01 | Rakuten Insight | Survey | 25.000 |
 | 18/01 | Google | Playbook Credit | 50.000 |
