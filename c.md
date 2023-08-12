@@ -1,5 +1,18 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 11/08 | Ulem | Jasa | 50.000 |
+| 04/08 | Telus | Online | 88.000 |
+| 20/07 | Rakuten Insight | Survey | 50.000 |
+| 17/07 | Sinarmas Sekuritas | Giveaway | 100.000 |
+| 11/07 | Blibli | Cashback | 20.000 |
+| 26/06 | Telegram | Like | 30.000 |
+| 20/06 | GMEI | Amplop | 50.000 |
+| 07/06 | Telegram | Like | 40.000|
+| 30/05 | Telegram | Like | 40.000 |
+| 10/04 | KPU | Pantarlih | 1.000.000 |
+| 06/04 | Litbang Kompas | Survey | 50.000 |
+| 25/03 | KPU | Pantarlih | 1.000.000 |
+| 20/02 | Rakuten Insight | Survey | 25.000 |
 | 3/02 | Tokopedia | Discount | 4.500 |
 | 31/01 | Flip | Program | 5.000 |
 | 20/01 | Rakuten Insight | Survey | 25.000 |
