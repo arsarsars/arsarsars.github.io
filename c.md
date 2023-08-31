@@ -1,6 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
-| 15/08 | Cashback | Shopee + Watsons | 4.500 |
+| 30/08 | Axis | Data | 5GB |
+| 30/08 | Blibli | Cashback | 20.000 |
+| 15/08 | Shopee + Watsons | Cashback | 4.500 |
 | 11/08 | Ulem | Jasa | 50.000 |
 | 04/08 | Telus | Online | 88.000 |
 | 20/07 | Rakuten Insight | Survey | 50.000 |
