@@ -1,5 +1,12 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 23/10 | Facebook ViewPoints | Ad Relevance | $3 |
+| 21/10 | Facebook ViewPoints | Ad Relevance | $3 |
+| 20/10 | Rakuten Insight | Survey | 25.000 |
+| 11/10| Kompas.com | #JernihBerkomentar | 100.000 |
+| 04/10 | Facebook ViewPoints | Ad Relevance | $3 |
+| 21/09 | Facebook ViewPoints | Ad Relevance | $3 |
+| 10/09 | Telegram | Survey | 55.000 |
 | 30/08 | Axis | Data | 5GB |
 | 30/08 | Blibli | Cashback | 20.000 |
 | 15/08 | Shopee + Watsons | Cashback | 4.500 |
