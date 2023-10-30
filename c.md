@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 30/10 | Upwork | Data Entry | $9 |
 | 29/10 | Axis | Bonus | 3GB |
 | 23/10 | Facebook ViewPoints | Ad Relevance | $3 |
 | 21/10 | Facebook ViewPoints | Ad Relevance | $3 |
