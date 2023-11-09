@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 09/11 | Kompas.com | Survei | 100.000 |
 | 07/11 | Privy | Program | 30.000 |
 | 30/10 | Upwork | Data Entry | $12.5 |
 | 29/10 | Axis | Bonus | 3GB |
