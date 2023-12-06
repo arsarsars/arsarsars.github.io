@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 06/12 | Sinarmas Sekuritas | Event | 100.000 |
+| 05/12 | Axis | Bonus Data | 1GB |
+| 01/12 | Axis | Bonus Twitter | 5GB |
 | 27/11 | Telkomsel | Bonus | WeTV + 2GB |
 | 20/11 | Rakuten Insight | Survei | 50.000 |
 | 09/11 | Kompas.com | Survei | 100.000 |
