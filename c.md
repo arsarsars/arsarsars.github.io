@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 18/12 | YouGov | Survey | 263.000 |
+| 14/12 | KPU | GiveAway | Jam Dinding |
 | 06/12 | Sinarmas Sekuritas | Event | 100.000 |
 | 05/12 | Axis | Bonus Data | 1GB |
 | 01/12 | Axis | Bonus Twitter | 5GB |
