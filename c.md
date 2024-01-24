@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 24/01 | Axis | Bonus | 3GB |
 | 14/01 | Telkomsel | Bonus | WeTV VIP |
 | 01/01 | Axis | Bonus | 3GB |
 | 20/12 | Rakuten Insight | Survey | 25.000 |
