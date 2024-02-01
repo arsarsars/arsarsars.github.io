@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 01/02 | Axis | Bonus | 1GB |
+| 28/01 | Kredivo | Voucher | 50.000 |
+| 28/01 | Kredivo | Poin | 250.000 |
 | 24/01 | Axis | Bonus | 3GB |
 | 14/01 | Telkomsel | Bonus | WeTV VIP |
 | 01/01 | Axis | Bonus | 3GB |
