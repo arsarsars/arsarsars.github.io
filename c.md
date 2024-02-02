@@ -1,5 +1,6 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 02/02 | Axis | Bonus Twitter | 2GB |
 | 01/02 | Axis | Bonus | 1GB |
 | 28/01 | Kredivo | Voucher | 50.000 |
 | 28/01 | Kredivo | Poin | 250.000 |
