@@ -1,5 +1,8 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 04/02 | Telkomsel | Bonus | WeTV VIP |
+| 04/02 | Telkomsel | Bonus | PrimeVideo |
+| 04/02 | Tokopedia | Cashback | 2.000 |
 | 02/02 | Axis | Bonus Twitter | 2GB |
 | 01/02 | Axis | Bonus | 1GB |
 | 28/01 | Kredivo | Voucher | 50.000 |
