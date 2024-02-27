@@ -1,5 +1,7 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 27/02 | Axis | Bonus | 4GB |
+| 20/02 | Rakuten | Survey | 50.000 |
 | 04/02 | Telkomsel | Bonus | WeTV VIP |
 | 04/02 | Telkomsel | Bonus | PrimeVideo |
 | 04/02 | Tokopedia | Cashback | 2.000 |
