@@ -1,5 +1,20 @@
 | Date | Provider | Note | Amount |
 |------|----------|------|--------|
+| 23/04 | Lazada | Koin | 7.500 |
+| 21/04 | Alfagift | TR | 8.000 |
+| 20/04 | Rakuten | Survey | 25.000 |
+| 20/04 | Kredivo | Program | 12.500 |
+| 17/04 | Alfagift | Cashback | 14.500 |
+| 16/04 | Alfagift | Cashback | 5.000 |
+| 26/03 | SeaBank | TF | 4.000 |
+| 24/03 | BRI-Danareksa | Bonus | 50.000 |
+| 20/03 | Rakuten | Survey | 25.000 |
+| 19/03 | Shopee | Cashback | 3.000 |
+| 14/03 | Kredivo  + Krom | Bonus | 50.000 |
+| 13/03 | Tokopedia + BRI | Bonus | 125.000 |
+| 13/03 | Shopee | Program | 10.000 |
+| 10/03 | Blibli | Cashback | 20.000 |
+| 01/03 | Blibli | Cashback | 11.000 |
 | 27/02 | Axis | Bonus | 4GB |
 | 20/02 | Rakuten | Survey | 50.000 |
 | 04/02 | Telkomsel | Bonus | WeTV VIP |
@@ -8,7 +23,7 @@
 | 02/02 | Axis | Bonus Twitter | 2GB |
 | 01/02 | Axis | Bonus | 1GB |
 | 28/01 | Kredivo | Voucher | 50.000 |
-| 28/01 | Kredivo | Poin | 250.000 |
+| 28/01 | Kredivo | Poin | 125.000 |
 | 24/01 | Axis | Bonus | 3GB |
 | 14/01 | Telkomsel | Bonus | WeTV VIP |
 | 01/01 | Axis | Bonus | 3GB |
