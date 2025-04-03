@@ -22,6 +22,8 @@ ALT 2: Thank you for waiting.
 
 ALT 2: Thank you for your patience.
 
+ALT 2: Okay, a moment to proceed your refund.
+
 ALT 3: Do you find my information understandable and clear to you?
 
 ALT 3: You're welcome. Is there any other concern I can help you with?
@@ -35,3 +37,13 @@ ALT 3: Of course.
 ALT 3: I'm happy to serve you.
 
 ALT 3: I'm glad I can assist you today.
+
+ALT H: Please wait a moment while I'm checking your order.
+
+ALT H: Hold on a minute while I'm resolve this issue for you.
+
+ALT H: I still need time to resolve this issue.
+
+ALT H: Thank you for waiting, but I need more time regarding this concern.
+
+ALT H: Since this issue is rare to us. I need more time to resolve the issue you're reporting.
