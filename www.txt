@@ -47,3 +47,15 @@ ALT H: I still need time to resolve this issue.
 ALT H: Thank you for waiting, but I need more time regarding this concern.
 
 ALT H: Since this issue is rare to us. I need more time to resolve the issue you're reporting.
+
+ALT R: As per information you provided to us, unfortunately we cannot find any fault in the item you received, we will process for normal return. Please give me some time to process the return application for you.
+
+ALT R: Okay. Since you can't provide us with the measurement of the item that you received, we will lead you to normal return. Allow me a moment to do it for you.
+
+ALT R: For returning the item to us, you can choose the logistic courier on your behalf: 1. Royal Mail 2. EVRI 3. Inpost
+
+ALT R: Thank you. I can inform you that you will get your refund after we received your parcel and our warehouse team confirm the parcel.
+
+ALT R: I can inform you, that your replacement item will be send to you after we receive your return parcel and our warehouse team done review the item.
+
+ALT R: Thank you for patiently wait. Your replacement item is now on processing and your estimated time of arrival of the parcel is by...
