@@ -1,3 +1,7 @@
+CS Cheat sheet
+
+ALT G: Greetings!
+
 ALT 1: May we know why you need to return the item to us, please?
 
 ALT 1: Could you give me the order number regarding this concern?
@@ -18,7 +22,7 @@ ALT 2: Thank you for waiting.
 
 ALT 2: Thank you for your patience.
 
-ALT 3: Do you find my information understandable to you?
+ALT 3: Do you find my information understandable and clear to you?
 
 ALT 3: You're welcome. Is there any other concern I can help you with?
 
@@ -27,5 +31,7 @@ ALT 3: Sure, thanks. I'm glad I can help you with the issue.
 ALT 3: Do you have any other concern I can assist you with?
 
 ALT 3: Of course.
+
+ALT 3: I'm happy to serve you.
 
 ALT 3: I'm glad I can assist you today.
